@@ -1,0 +1,80 @@
+version: '3.8'
+
+services:
+  db:
+    image: pgrouting/pgrouting:17-3.5-3.8
+    container_name: neighborly-db
+    restart: always
+    environment:
+      POSTGRES_DB: neighborlyminds
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: ${DB_PASSWORD:?Set DB_PASSWORD in .env}
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./init_db.sql:/docker-entrypoint-initdb.d/init_db.sql:ro
+    ports:
+      - "127.0.0.1:5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d neighborlyminds"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  cv-service:
+    build:
+      context: ./cv_service
+      dockerfile: Dockerfile
+    container_name: neighborly-cv
+    restart: always
+    environment:
+      PORT: 8000
+    expose:
+      - "8000"
+
+  api-server:
+    build:
+      context: .
+      dockerfile: Dockerfile.server
+    container_name: neighborly-api
+    restart: always
+    environment:
+      NODE_ENV: production
+      PORT: 3000
+      DB_HOST: db
+      DB_PORT: 5432
+      DB_NAME: neighborlyminds
+      DB_USER: postgres
+      DB_PASSWORD: ${DB_PASSWORD:?Set DB_PASSWORD in .env}
+      CV_SERVICE_URL: http://cv-service:8000
+      VITE_SUPABASE_URL: ${VITE_SUPABASE_URL}
+      VITE_SUPABASE_PUBLISHABLE_KEY: ${VITE_SUPABASE_PUBLISHABLE_KEY}
+      SUPABASE_SECRET_KEY: ${SUPABASE_SECRET_KEY}
+      SUPABASE_JWKS_URL: ${SUPABASE_JWKS_URL}
+      VITE_GOOGLE_MAPS_API_KEY: ${VITE_GOOGLE_MAPS_API_KEY}
+      SITE_ACCESS_PASSWORD: ${SITE_ACCESS_PASSWORD:?Set SITE_ACCESS_PASSWORD in .env}
+      ADMIN_API_TOKEN: ${ADMIN_API_TOKEN}
+      ALLOWED_ORIGINS: ${ALLOWED_ORIGINS:-https://34-135-219-183.sslip.io}
+    depends_on:
+      db:
+        condition: service_healthy
+      cv-service:
+        condition: service_started
+    expose:
+      - "3000"
+
+  frontend-gateway:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: neighborly-frontend
+    restart: always
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - /etc/letsencrypt:/etc/letsencrypt:ro
+    depends_on:
+      - api-server
+
+volumes:
+  pgdata:

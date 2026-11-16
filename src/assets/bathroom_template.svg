@@ -1,0 +1,182 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 650" width="100%" height="100%">
+  <defs>
+    <!-- Wall Tile Pattern -->
+    <pattern id="wallTile" x="0" y="0" width="75" height="75" patternUnits="userSpaceOnUse">
+      <rect width="75" height="75" fill="#fcfcfc" stroke="#d4d4d4" stroke-width="2"/>
+    </pattern>
+  </defs>
+
+  <!-- ================= BACKGROUND & ROOM STRUCTURE ================= -->
+  <g id="room-structure">
+    <!-- Back Wall -->
+    <rect x="0" y="0" width="1200" height="550" fill="url(#wallTile)" />
+    
+    <!-- Floor -->
+    <polygon class="contrast-floor" points="0,550 1200,550 1200,650 0,650" fill="#e6decb" />
+    <line x1="0" y1="550" x2="1200" y2="550" stroke="#1a1a1a" stroke-width="2"/>
+    
+    <!-- Floor Grid (1-Point Perspective) -->
+    <path d="M 0 580 L 1200 580 M 0 615 L 1200 615" stroke="#c4bbaa" stroke-width="1"/>
+    <path d="M 150 550 L 50 650 M 225 550 L 135 650 M 300 550 L 220 650 M 375 550 L 305 650 M 450 550 L 390 650 M 525 550 L 475 650 M 600 550 L 560 650 M 675 550 L 645 650 M 750 550 L 730 650 M 825 550 L 815 650 M 900 550 L 900 650 M 975 550 L 985 650 M 1050 550 L 1070 650 M 1125 550 L 1155 650" stroke="#c4bbaa" stroke-width="1"/>
+
+    <!-- Left Wall -->
+    <!-- Left Wall Base Color -->
+    <path d="M 0 0 L 120 0 L 120 550 L 0 650 Z" fill="#fcfcfc" stroke="#a0a0a0" stroke-width="2"/>
+    <!-- Left Wall True 3D Tile Grout Lines -->
+    <path d="
+      M 120 75 L 0 45
+      M 120 150 L 0 140
+      M 120 225 L 0 236
+      M 120 300 L 0 331
+      M 120 375 L 0 427
+      M 120 450 L 0 523
+      M 120 525 L 0 618
+      M 90 0 L 90 575
+      M 55 0 L 55 604
+      M 15 0 L 15 638" 
+      stroke="#d4d4d4" stroke-width="2" fill="none"/>
+
+    <!-- Right Wall -->
+    <!-- Right Wall Base Color -->
+    <path d="M 1080 0 L 1200 0 L 1200 650 L 1080 550 Z" fill="#fcfcfc" stroke="#a0a0a0" stroke-width="2"/>
+    <!-- Right Wall True 3D Tile Grout Lines -->
+    <path d="
+      M 1080 75 L 1200 45
+      M 1080 150 L 1200 140
+      M 1080 225 L 1200 236
+      M 1080 300 L 1200 331
+      M 1080 375 L 1200 427
+      M 1080 450 L 1200 523
+      M 1080 525 L 1200 618
+      M 1110 0 L 1110 575
+      M 1145 0 L 1145 604
+      M 1185 0 L 1185 638" 
+      stroke="#d4d4d4" stroke-width="2" fill="none"/>
+  </g>
+
+  <!-- ================= DOOR (LEFT WALL) ================= -->
+  <g id="door">
+    <!-- 1. 3D BEVELED FRONT FRAME -->
+    <path id="door-frame-contrast" class="contrast-door" d="M 6 62 L 114 98 L 114 555 L 6 645 Z M 12 82 L 12 622 L 108 542 L 108 114 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="round"/>
+    <!-- Frame Miter Lines -->
+    <line x1="6" y1="62" x2="12" y2="82" stroke="#1a1a1a" stroke-width="1.5"/>
+    <line x1="114" y1="98" x2="108" y2="114" stroke="#1a1a1a" stroke-width="1.5"/>
+    <line x1="114" y1="555" x2="108" y2="542" stroke="#1a1a1a" stroke-width="1.5"/>
+    <line x1="6" y1="645" x2="12" y2="622" stroke="#1a1a1a" stroke-width="1.5"/>
+    
+    <!-- 2. PLAIN RECESSED DOOR FACE -->
+    <polygon points="16,84 104,112 104,546 16,618" fill="#f8f8f8" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="round"/>
+    
+    <!-- 3. INNER FRAME JAMBS -->
+    <!-- Top Jamb -->
+    <polygon points="12,82 108,114 104,112 16,84" fill="#b0b0b0" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="round"/>
+    <!-- Right Jamb -->
+    <polygon points="108,114 108,542 104,546 104,112" fill="#e0e0e0" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="round"/>
+    <!-- Bottom Threshold Jamb -->
+    <polygon points="12,622 108,542 104,546 16,618" fill="#c0c0c0" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="round"/>
+    <!-- Left Jamb -->
+    <polygon points="12,82 12,622 16,618 16,84" fill="#d4d4d4" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="round"/>
+
+    <!-- 4. HINGES -->
+    <polygon points="104,175 107,174 107,189 104,190" fill="#e0e0e0" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="round"/>
+    <polygon points="104,485 107,484 107,499 104,500" fill="#e0e0e0" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="round"/>
+    
+    <!-- 5. 3D DOOR HANDLE -->
+    <g id="door-handle">
+      <!-- Backplate -->
+      <ellipse cx="28" cy="354" rx="3.5" ry="14" fill="#e0e0e0" stroke="#1a1a1a" stroke-width="1.5"/>
+      <!-- Stem -->
+      <polygon points="31,352 36,351 36,357 31,356" fill="#c0c0c0" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="round"/>
+      <!-- Lever -->
+      <path d="M 36 351 L 50 347 C 52 346.5 53 347.5 53 349 C 53 350.5 52 352 50 352.5 L 36 357 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="round"/>
+    </g>
+  </g>
+
+  <!-- ================= TOILET ================= -->
+  <g id="toilet">
+    <!-- Tank -->
+    <rect x="335" y="360" width="90" height="95" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+    <!-- Flush Button -->
+    <ellipse cx="380" cy="360" rx="8" ry="3" fill="#e0e0e0" stroke="#1a1a1a" stroke-width="1.5"/>
+    
+    <!-- Toilet Base & Bowl -->
+    <path d="M 360 480 L 350 540 C 345 570 415 570 410 540 L 400 480 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+    <path d="M 330 455 C 330 495 430 495 430 455 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+    
+    <!-- Seat and Lid -->
+    <ellipse class="contrast-toilet" cx="380" cy="455" rx="50" ry="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+    <ellipse id="toilet-seat-contrast" class="contrast-toilet" cx="380" cy="450" rx="45" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="1"/>
+
+    <!-- Toilet Paper Holder -->
+    <path d="M 445 405 L 465 405 L 465 425" fill="none" stroke="#1a1a1a" stroke-width="2.5" stroke-linecap="round"/>
+    <rect x="450" y="415" width="25" height="25" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.5"/>
+    <circle cx="445" cy="405" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.5"/>
+  </g>
+
+  <!-- ================= VANITY & SINK ================= -->
+  <g id="vanity-sink">
+    <!-- Mirror & Light -->
+    <rect x="530" y="100" width="180" height="200" fill="#eef6f7" stroke="#1a1a1a" stroke-width="2"/>
+    <rect x="605" y="50" width="30" height="25" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+    <path d="M 610 50 L 610 40 L 630 40 L 630 50" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+
+    <!-- Vanity Drawers -->
+    <rect id="vanity-edge-contrast" class="contrast-vanity" x="505" y="370" width="230" height="95" fill="#f8f8f8" stroke="#1a1a1a" stroke-width="2"/>
+    <line class="contrast-vanity" x1="505" y1="410" x2="735" y2="410" stroke="#1a1a1a" stroke-width="1.5"/>
+    <line class="contrast-vanity" x1="580" y1="425" x2="660" y2="425" stroke="#1a1a1a" stroke-width="2.5" stroke-linecap="round"/>
+
+    <!-- Vanity Top & Sink Inset -->
+    <rect x="500" y="348" width="240" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+    <path d="M 555 350 C 555 380 685 380 685 350 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+    <ellipse cx="620" cy="350" rx="65" ry="12" fill="#f4f4f4" stroke="#1a1a1a" stroke-width="1.5"/>
+    <circle cx="620" cy="353" r="2.5" fill="#1a1a1a"/> <!-- drain -->
+
+    <!-- Faucet -->
+    <rect x="612" y="315" width="16" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+    <rect x="608" y="308" width="24" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+  </g>
+
+  <!-- ================= SHOWER ================= -->
+  <g id="shower">
+    <!-- Shower Inner Corner Line (Now sits exactly at X=1080 to match right wall) -->
+    <line x1="1080" y1="65" x2="1080" y2="550" stroke="#d4d4d4" stroke-width="1.5"/>
+    
+    <!-- Shower Head (Now attached to the Right Wall and centered over shower) -->
+    <path d="M 1130 160 L 1090 160 L 1090 90 L 1000 90 L 1000 100" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="1130" cy="160" rx="3" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/> <!-- wall mount on right wall -->
+    <ellipse cx="1000" cy="110" rx="30" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/> <!-- rain head -->
+    <ellipse cx="1000" cy="115" rx="27" ry="4" fill="none" stroke="#1a1a1a" stroke-width="1"/> <!-- nozzle detail -->
+
+    <!-- Mixer Valve (Now attached to the Right Wall) -->
+    <ellipse cx="1130" cy="320" rx="4" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+    <rect x="1115" y="318" width="15" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.5" rx="1"/>
+
+    <!-- Shower Base / Floor Drain (Properly centered inside the shower) -->
+    <polygon points="985,590 1000,585 1015,590 1000,595" fill="#d4d4d4" stroke="#1a1a1a" stroke-width="1.5"/>
+    <line x1="990" y1="588" x2="1010" y2="588" stroke="#1a1a1a" stroke-width="1"/>
+    <line x1="988" y1="590" x2="1012" y2="590" stroke="#1a1a1a" stroke-width="1"/>
+    <line x1="992" y1="592" x2="1008" y2="592" stroke="#1a1a1a" stroke-width="1"/>
+
+    <!-- Glass Enclosure (Right edge now exactly matches Right Wall perspective) -->
+    <polygon points="850,90 850,550 900,625 1170,625 1170,65 900,65" fill="#f0f7f7" fill-opacity="0.4" stroke="none" />
+    
+    <!-- Outer Frame Lines -->
+    <line id="shower-frame-contrast" class="contrast-shower" x1="850" y1="90" x2="850" y2="550" stroke="#1a1a1a" stroke-width="2"/> <!-- Left structural line -->
+    <line class="contrast-shower" x1="850" y1="90" x2="900" y2="65" stroke="#1a1a1a" stroke-width="2"/>  <!-- Top side perspective -->
+    <line class="contrast-shower" x1="900" y1="65" x2="1170" y2="65" stroke="#1a1a1a" stroke-width="2"/> <!-- Top front flat -->
+    <line class="contrast-shower" x1="900" y1="65" x2="900" y2="625" stroke="#1a1a1a" stroke-width="2.5"/> <!-- Front vertical line -->
+    <line class="contrast-shower" x1="1170" y1="65" x2="1170" y2="625" stroke="#1a1a1a" stroke-width="2"/> <!-- Right structural line (on wall) -->
+    <line class="contrast-shower" x1="850" y1="550" x2="900" y2="625" stroke="#1a1a1a" stroke-width="2"/> <!-- Bottom side perspective -->
+    <line class="contrast-shower" x1="900" y1="625" x2="1170" y2="625" stroke="#1a1a1a" stroke-width="2"/> <!-- Bottom front flat -->
+    
+    <!-- Inner Frame Line detail -->
+    <polyline points="856,96 904,72 1164,72" fill="none" stroke="#777" stroke-width="1"/>
+
+    <!-- Shower Door Handle (Attached to the front glass pane) -->
+    <g id="shower-handle">
+      <line class="contrast-shower" x1="920" y1="260" x2="925" y2="260" stroke="#1a1a1a" stroke-width="2"/>
+      <line class="contrast-shower" x1="920" y1="360" x2="925" y2="360" stroke="#1a1a1a" stroke-width="2"/>
+      <rect class="contrast-shower" x="925" y="240" width="6" height="140" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

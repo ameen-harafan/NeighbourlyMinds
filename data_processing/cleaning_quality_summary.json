@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-09-16",
+  "scope": "Expanded Student C Iteration 2 data package: Victoria LGA selector, Greater Melbourne landmark candidates, City of Melbourne route pilot.",
+  "counts": {
+    "lga_features": 80,
+    "places": 8,
+    "landmark_candidates": 27664,
+    "landmark_groups": 21,
+    "landmark_sources": {
+      "Vicmap Features of Interest": 23215,
+      "City of Melbourne Landmarks and Places of Interest": 242,
+      "City of Melbourne Public Toilets": 74,
+      "Victorian Public Transport Stops": 4133
+    },
+    "routes": 6,
+    "route_steps": 31,
+    "route_step_landmark_rows": 31,
+    "support_points": 12,
+    "route_nodes": 317,
+    "route_edges": 319
+  },
+  "limitations": [
+    "Expanded landmark candidates cover Greater Melbourne, but the walking route graph remains a City of Melbourne pilot.",
+    "Landmark matching is spatial and rule-based; it does not prove a user can see the landmark from the footpath.",
+    "Manual QA is still required for crossings, entrances, construction changes and visual clarity.",
+    "Canopy is a historical proxy, not live shade.",
+    "Public toilets are support points, not benches.",
+    "LGA dementia numbers are modelled estimates, not observed counts."
+  ]
+}

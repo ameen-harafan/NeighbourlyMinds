@@ -1,0 +1,22 @@
+{
+  "hero": {
+    "headline": "Empowering Older Victorians",
+    "secondaryBadge": "Designing for Independence",
+    "subtitle": "Supporting older Victorians living independently. Explore familiar indoor spaces, audit room hazards, and plan safe community outings without stress.",
+    "primaryCta": {
+      "text": "Explore What You Can Do",
+      "ariaLabel": "Explore NeighbourlyMinds pathways and services below",
+      "targetSection": "mission-section"
+    }
+  },
+  "demographics": {
+    "overline": "You are not alone",
+    "intro": "In",
+    "outro": "residents may be living with cognitive or spatial barriers.",
+    "description": "NeighbourlyMinds helps make everyday environments easier to understand and navigate for everyone."
+  },
+  "gateways": {
+    "title": "How can NeighbourlyMinds help you today?",
+    "intro": "The environment is the barrier, not your mind. Choose an area below to explore home adjustments, audit room hazards, or prepare for safe community outings."
+  }
+}

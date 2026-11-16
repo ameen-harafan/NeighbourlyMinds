@@ -1,0 +1,11 @@
+test_id,scenario,wall_hex,frame_hex,wall_relative_luminance,frame_relative_luminance,contrast_ratio,expected_badge,test_purpose
+T01,Identical white,#FFFFFF,#FFFFFF,1.0,1.0,1.0,Low contrast,Lowest possible digital contrast
+T02,White vs very light grey,#FFFFFF,#EEEEEE,1.0,0.854993,1.1602,Low contrast,Clearly low contrast
+T03,Boundary fail,#FFFFFF,#959595,1.0,0.300544,2.9953,Low contrast,Just below 3:1; must not round up
+T04,Boundary pass,#FFFFFF,#949494,1.0,0.296138,3.0335,Improved contrast,Just above 3:1
+T05,White vs mid grey,#FFFFFF,#808080,1.0,0.215861,3.9494,Improved contrast,Improved digital contrast
+T06,White vs black,#FFFFFF,#000000,1.0,0.0,21.0,Improved contrast,Maximum possible contrast
+T07,Off-white wall vs dark frame,#F5F5F5,#505050,0.913099,0.08022,7.3959,Improved contrast,Realistic prototype example
+T08,Light beige wall vs brown frame,#F5F5DC,#5A3A22,0.898846,0.053153,9.1985,Improved contrast,Warm-colour prototype example
+T09,Light grey vs similar grey,#D3D3D3,#C8C8C8,0.651406,0.57758,1.1176,Low contrast,Similar surfaces; low contrast
+T10,Dark wall vs light frame,#303030,#F0F0F0,0.029557,0.871367,11.5812,Improved contrast,Reverse light/dark arrangement

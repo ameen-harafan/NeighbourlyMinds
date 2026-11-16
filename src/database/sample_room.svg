@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+  <!-- Simple conceptual bathroom/doorway scene -->
+  <rect id="wall" x="0" y="0" width="900" height="520" fill="#F5F5F5"/>
+
+  <!-- Door frame -->
+  <rect id="door-frame" x="290" y="80" width="320" height="390" fill="#505050"/>
+
+  <!-- Door opening/leaf -->
+  <rect id="door" x="320" y="110" width="260" height="360" fill="#E8E8E8"/>
+
+  <!-- Small label areas for visual orientation only -->
+  <rect x="30" y="30" width="210" height="70" rx="12" fill="#FFFFFF" stroke="#B0B0B0"/>
+  <text x="55" y="72" font-family="Arial" font-size="26" fill="#303030">Sample Bathroom</text>
+</svg>

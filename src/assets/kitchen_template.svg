@@ -1,0 +1,235 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 700" width="100%" height="100%">
+  <defs>
+    <!-- Light & Shadow Filters for 3D Depth -->
+    <filter id="dropShadow" x="-10%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="10" stdDeviation="6" flood-color="#000000" flood-opacity="0.25"/>
+    </filter>
+    <filter id="glowLight">
+      <feDropShadow dx="0" dy="-1" stdDeviation="3" flood-color="#ffffff" flood-opacity="0.8"/>
+    </filter>
+
+    <!-- Splashback Tile Pattern -->
+    <pattern id="splashbackTiles" x="0" y="0" width="35" height="35" patternUnits="userSpaceOnUse">
+      <rect width="35" height="35" fill="#fbfbfb" stroke="#d5d5d5" stroke-width="0.8"/>
+      <!-- Subtle 3D highlight on tiles -->
+      <line x1="0" y1="0" x2="35" y2="0" stroke="#ffffff" stroke-width="2"/>
+    </pattern>
+
+    <!-- Wall Gradient for Ambient Occlusion -->
+    <linearGradient id="wallGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f4f3f1"/>
+      <stop offset="100%" stop-color="#e0dfdb"/>
+    </linearGradient>
+
+    <!-- Metal Gradient for Appliances -->
+    <linearGradient id="metalGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f8f8f8"/>
+      <stop offset="50%" stop-color="#d0d0d0"/>
+      <stop offset="100%" stop-color="#aaaaaa"/>
+    </linearGradient>
+    
+    <!-- Floor Clip Path (Ensures perspective floor lines stay on the floor) -->
+    <clipPath id="floorClip">
+      <polygon points="0,627 1400,627 1400,700 0,700"/>
+    </clipPath>
+  </defs>
+
+  <!-- ================= BACKGROUND & WALL ================= -->
+  <!-- Back Wall (Z=0) -->
+  <rect x="0" y="0" width="1400" height="700" fill="url(#wallGrad)" />
+  
+  <!-- Ceiling Bulkhead (Front plane) -->
+  <rect x="0" y="0" width="1400" height="70" fill="#fcfcfc" stroke="#dfdfdf" stroke-width="1"/>
+
+  <!-- ================= 3D PERSPECTIVE FLOOR ================= -->
+  <!-- Floor Base Color -->
+  <polygon points="0,627 1400,627 1400,700 0,700" fill="#ede5d8"/>
+  
+  <!-- Perfect 1-Point Perspective Floor Planks (Radiating from Vanishing Point: 740, 40) -->
+  <g clip-path="url(#floorClip)" stroke="#d8ccb8" stroke-width="2">
+    <!-- Left side lines -->
+    <line x1="740" y1="40" x2="-400" y2="700" />
+    <line x1="740" y1="40" x2="-200" y2="700" />
+    <line x1="740" y1="40" x2="0" y2="700" />
+    <line x1="740" y1="40" x2="200" y2="700" />
+    <line x1="740" y1="40" x2="400" y2="700" />
+    <line x1="740" y1="40" x2="600" y2="700" />
+    <!-- Right side lines -->
+    <line x1="740" y1="40" x2="800" y2="700" />
+    <line x1="740" y1="40" x2="1000" y2="700" />
+    <line x1="740" y1="40" x2="1200" y2="700" />
+    <line x1="740" y1="40" x2="1400" y2="700" />
+    <line x1="740" y1="40" x2="1600" y2="700" />
+    <line x1="740" y1="40" x2="1800" y2="700" />
+  </g>
+  <!-- Horizontal Floor Grout lines (Compression mapping) -->
+  <line x1="0" y1="655" x2="1400" y2="655" stroke="#d8ccb8" stroke-width="1.5"/>
+  <line x1="0" y1="682" x2="1400" y2="682" stroke="#d8ccb8" stroke-width="1.5"/>
+
+  <!-- ================= SPLASHBACK (Z=0 Plane) ================= -->
+  <!-- Sits perfectly flat against the back wall -->
+  <rect x="305" y="227" width="870" height="133" fill="url(#splashbackTiles)" stroke="#a0a0a0" stroke-width="1"/>
+
+  <!-- ================= 3D SIDE PANELS (Depth Geometry) ================= -->
+  <!-- These expose the depth going from the Front Plane (Z=1) to the Back Wall (Z=0) -->
+  
+  <!-- Right-Facing Side Panel of the Fridge Housing -->
+  <polygon points="250,70 305,67 305,627 250,700" fill="#d0d0d0" stroke="#999999" stroke-width="1"/>
+  
+  <!-- Left-Facing Side Panel of the Tall Pantry -->
+  <polygon points="1230,70 1175,67 1175,627 1230,700" fill="#e4e4e4" stroke="#999999" stroke-width="1"/>
+
+  <!-- Left-Facing Side Panel of the Overhead Cabinets -->
+  <polygon points="270,70 322,67 322,227 270,250" fill="#d4d4d4" stroke="#999999" stroke-width="1"/>
+  
+  <!-- Right-Facing Side Panel of the Overhead Cabinets -->
+  <polygon points="1210,70 1158,67 1158,227 1210,250" fill="#e8e8e8" stroke="#999999" stroke-width="1"/>
+  
+  <!-- Underside Shadow Plane of the Overhead Cabinets -->
+  <polygon points="270,250 1210,250 1158,227 322,227" fill="#b8b8b8" stroke="#999999" stroke-width="1"/>
+  
+  <!-- Ambient Occlusion Shadow on the Splashback (cast by Overheads) -->
+  <polygon points="305,227 1175,227 1175,245 305,245" fill="#000000" opacity="0.12"/>
+
+  <!-- ================= OVERHEAD CABINETS FRONT ================= -->
+  <!-- Recessed slightly to reveal the side panels of the fridge and pantry -->
+  <g class="contrast-cabinet" fill="#fbfbfb" stroke="#777777" stroke-width="1.2">
+    <!-- 940 Total Width / 6 doors = 156.66 per door -->
+    <rect x="270" y="70" width="156.6" height="180"/>
+    <rect x="426.6" y="70" width="156.6" height="180"/>
+    <rect x="583.2" y="70" width="156.6" height="180"/>
+    <rect x="739.8" y="70" width="156.6" height="180"/>
+    <rect x="896.4" y="70" width="156.6" height="180"/>
+    <rect x="1053" y="70" width="157" height="180"/>
+  </g>
+
+  <!-- ================= BENCHTOP TOP SURFACE (3D Trapezoid) ================= -->
+  <!-- Slanted downwards steeply to make the top clearly viewable to the user -->
+  <polygon class="contrast-counter" points="250,400 1230,400 1175,360 305,360" fill="#e6e6e6" stroke="#888888" stroke-width="1"/>
+
+  <!-- ================= SINK & TAP (Mapped to Perspective) ================= -->
+  <g class="contrast-sink">
+    <!-- Sink Outer Rim (Perspective Trapezoid) -->
+    <polygon points="785,392 925,392 915,368 795,368" fill="url(#metalGrad)" stroke="#777777" stroke-width="1"/>
+    <!-- Sink Inner Bowl (Depth cut-in) -->
+    <polygon points="792,388 918,388 910,371 800,371" fill="#777777"/>
+    <!-- Sink Bottom Basin -->
+    <polygon points="800,384 910,384 905,373 805,373" fill="#555555"/>
+    
+    <!-- Drain Hole -->
+    <ellipse cx="855" cy="378" rx="6" ry="2" fill="#111111"/>
+
+    <!-- Tap Base -->
+    <ellipse cx="855" cy="366" rx="8" ry="3" fill="#a0a0a0" stroke="#555555" stroke-width="1"/>
+    
+    <!-- Tap Gooseneck -->
+    <path d="M 855 364 L 855 325 A 25 25 0 0 0 805 325 L 805 345" fill="none" stroke="#777777" stroke-width="10" stroke-linecap="round"/>
+    <path d="M 855 364 L 855 325 A 25 25 0 0 0 805 325 L 805 345" fill="none" stroke="#e8e8e8" stroke-width="6" stroke-linecap="round"/>
+    
+    <!-- Tap Aerator -->
+    <rect x="801" y="345" width="8" height="6" rx="1" fill="#444444"/>
+    
+    <!-- Tap Lever Handle -->
+    <line x1="863" y1="358" x2="880" y2="351" stroke="#e8e8e8" stroke-width="4" stroke-linecap="round" filter="url(#glowLight)"/>
+  </g>
+
+  <!-- ================= INDUCTION COOKTOP (Mapped to Perspective) ================= -->
+  <!-- Glass Surface Trapezoid -->
+  <polygon points="1025,392 1185,392 1165,368 1045,368" fill="#1a1a1a" stroke="#000000" stroke-width="1.5"/>
+  <polygon points="1027,390 1183,390 1164,369 1046,369" fill="#2a2a2a"/> 
+  
+  <!-- Burner Rings (Skewed ellipses for 3D viewing angle) -->
+  <ellipse class="contrast-stove-burner active" cx="1065" cy="384" rx="15" ry="3.5" fill="none" stroke="#e82b2b" stroke-width="1.5" opacity="0.8"/>
+  <ellipse class="contrast-stove-burner" cx="1110" cy="378" rx="11" ry="2.5" fill="none" stroke="#777777" stroke-width="1"/>
+  <ellipse class="contrast-stove-burner" cx="1145" cy="384" rx="17" ry="4" fill="none" stroke="#777777" stroke-width="1"/>
+
+  <!-- ================= UNIFIED FRONT PLANE (Z=1) ================= -->
+  <!-- Drawing Fridge, Base Cabinets, and Pantry in one unified group guarantees they are 100% mathematically flush. No protruding drop shadows. -->
+  <g filter="url(#dropShadow)">
+    
+    <!-- 3D Recessed Plinth (Shadow/Kickboard) -->
+    <polygon points="250,700 1230,700 1202,663 278,663" fill="#000000" opacity="0.15"/>
+    <polygon points="278,588 1202,588 1202,663 278,663" fill="#333333"/> 
+    
+    <!-- Left Fridge Outer Housing -->
+    <rect class="contrast-fridge" x="10" y="70" width="240" height="630" fill="#fbfbfb" stroke="#888888" stroke-width="1"/>
+    
+    <!-- Right Tall Pantry Outer Housing -->
+    <rect x="1230" y="70" width="160" height="630" fill="#fbfbfb" stroke="#888888" stroke-width="1"/>
+    
+    <!-- Center Lower Cabinets Base -->
+    <rect x="250" y="416" width="980" height="204" fill="#f8f8f8" stroke="#888888" stroke-width="1"/>
+    
+    <!-- Benchtop Front Thickness (Overhangs Base slightly) -->
+    <rect x="250" y="400" width="980" height="16" fill="#d2d2d2" stroke="#777777" stroke-width="1.5"/>
+  </g>
+
+  <!-- ================= FRONT DETAILS (Doors, Drawers, Oven, Fridge) ================= -->
+  <!-- Drawn on top of the base plane -->
+  
+  <!-- FRIDGE DETAILS -->
+  <g>
+    <!-- Fridge Cavity Interior -->
+    <rect x="15" y="160" width="230" height="540" fill="#7d7d7d" stroke="#555555" stroke-width="1"/>
+    <!-- Upper Main Fridge Door -->
+    <rect class="contrast-fridge" x="22" y="167" width="216" height="343" rx="3" fill="#fafafa" stroke="#bbbbbb" stroke-width="1" filter="url(#glowLight)"/>
+    <rect x="224" y="320" width="6" height="140" rx="3" fill="url(#metalGrad)" stroke="#888888" stroke-width="0.5"/> 
+    <!-- Lower Freezer Door -->
+    <rect class="contrast-fridge" x="22" y="520" width="216" height="170" rx="3" fill="#fafafa" stroke="#bbbbbb" stroke-width="1" filter="url(#glowLight)"/>
+    <rect x="224" y="535" width="6" height="100" rx="3" fill="url(#metalGrad)" stroke="#888888" stroke-width="0.5"/>
+    <!-- Overhead Flap Doors (Above Fridge) -->
+    <rect x="15" y="75" width="112.5" height="80" fill="#fcfcfc" stroke="#bbbbbb" stroke-width="1"/>
+    <rect x="127.5" y="75" width="112.5" height="80" fill="#fcfcfc" stroke="#bbbbbb" stroke-width="1"/>
+  </g>
+
+  <!-- PANTRY DETAILS -->
+  <g>
+    <!-- Pantry Door -->
+    <rect x="1235" y="75" width="150" height="620" fill="#fcfcfc" stroke="#bbbbbb" stroke-width="1"/>
+    <!-- Slim Full-length Handle -->
+    <rect x="1245" y="340" width="6" height="60" rx="3" fill="url(#metalGrad)" stroke="#888888" stroke-width="0.5"/>
+  </g>
+
+  <!-- LOWER CABINET DOORS & DRAWERS -->
+  <g>
+    <!-- Left Drawer Stack (3 Drawers) -->
+    <g class="contrast-cabinet" fill="#fcfcfc" stroke="#999999" stroke-width="1">
+      <rect x="250" y="416" width="182" height="60"/>
+      <rect x="250" y="476" width="182" height="68"/>
+      <rect x="250" y="544" width="182" height="76"/>
+    </g>
+    <!-- Drawer J-Pull Details -->
+    <path d="M 315 423 Q 341 428 367 423" fill="none" stroke="#aaaaaa" stroke-width="3" stroke-linecap="round"/>
+    <path d="M 315 483 Q 341 488 367 483" fill="none" stroke="#aaaaaa" stroke-width="3" stroke-linecap="round"/>
+    <path d="M 315 551 Q 341 556 367 551" fill="none" stroke="#aaaaaa" stroke-width="3" stroke-linecap="round"/>
+
+    <!-- Center Cabinet Doors (4 Doors) -->
+    <g class="contrast-cabinet" fill="#fcfcfc" stroke="#999999" stroke-width="1">
+      <rect x="432" y="416" width="154" height="204"/>
+      <rect x="586" y="416" width="154" height="204"/>
+      <rect x="740" y="416" width="154" height="204"/>
+      <rect x="894" y="416" width="154" height="204"/>
+    </g>
+    <!-- Door Finger Pull Details -->
+    <path d="M 485 423 Q 509 428 533 423" fill="none" stroke="#aaaaaa" stroke-width="2" stroke-linecap="round"/>
+    <path d="M 639 423 Q 663 428 687 423" fill="none" stroke="#aaaaaa" stroke-width="2" stroke-linecap="round"/>
+    <path d="M 793 423 Q 817 428 841 423" fill="none" stroke="#aaaaaa" stroke-width="2" stroke-linecap="round"/>
+    <path d="M 947 423 Q 971 428 995 423" fill="none" stroke="#aaaaaa" stroke-width="2" stroke-linecap="round"/>
+
+    <!-- UNDER-BENCH OVEN UNIT -->
+    <!-- Oven Fascia (Metal) -->
+    <rect class="contrast-oven" x="1058" y="426" width="162" height="184" fill="url(#metalGrad)" stroke="#777777" stroke-width="1"/>
+    <!-- Oven Control Panel -->
+    <rect x="1058" y="426" width="162" height="35" fill="#444444"/>
+    <circle cx="1080" cy="443" r="5" fill="#f0f0f0" filter="url(#glowLight)"/>
+    <circle cx="1198" cy="443" r="5" fill="#f0f0f0" filter="url(#glowLight)"/>
+    <rect x="1119" y="435" width="40" height="16" fill="#111111" rx="2"/>
+    <rect x="1129" y="441" width="20" height="4" fill="#00e5ff"/> <!-- Blue Digital display -->
+    <!-- Oven Glass Door -->
+    <rect x="1068" y="470" width="142" height="130" rx="3" fill="#222222" stroke="#555555" stroke-width="1.5"/>
+    <rect x="1080" y="482" width="118" height="106" fill="#111111"/>
+    <!-- Oven Door Handle -->
+    <rect x="1075" y="475" width="128" height="6" rx="2" fill="#e8e8e8" stroke="#888888" stroke-width="1" filter="url(#glowLight)"/>
+  </g>
+
+</svg>

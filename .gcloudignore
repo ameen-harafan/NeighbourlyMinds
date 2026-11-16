@@ -1,0 +1,15 @@
+.gcloudignore
+.git
+.gitignore
+node_modules/
+venv*/
+cv_service/venv*/
+*.sql
+*.sql.gz
+*.csv
+*.geojson
+*.xlsx
+.env.local
+.DS_Store
+dist/
+artifact/

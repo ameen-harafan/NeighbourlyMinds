@@ -1,0 +1,367 @@
+/* ==========================================================================
+   NeighbourlyMinds - Sienna Accessibility Widget Customization & Theme
+   ========================================================================== */
+
+:root,
+html,
+body,
+div.asw-widget,
+div.asw-menu,
+.asw-widget,
+.asw-menu,
+.asw-menu-header,
+.asw-menu * {
+  --asw-primary: #175d52 !important;
+  --asw-btn-size: 52px;
+  --asw-icon-size: 28px;
+  --asw-btn-size-mobile: 44px;
+  --asw-icon-size-mobile: 24px;
+  --asw-bottom: 24px;
+  --asw-left: 24px;
+  --asw-right: auto;
+}
+
+/* Floating Launcher Button */
+div.asw-widget .asw-menu-btn,
+.asw-menu-btn {
+  background: #175d52 !important;
+  background: linear-gradient(135deg, #175d52 0%, #11463e 100%) !important;
+  border: 2px solid #ffffff !important;
+  outline: 3px solid rgba(23, 93, 82, 0.25) !important;
+  box-shadow: 0 4px 16px rgba(23, 93, 82, 0.3) !important;
+  transition: transform 0.2s ease, box-shadow 0.2s ease !important;
+}
+
+div.asw-widget .asw-menu-btn:hover,
+.asw-menu-btn:hover {
+  transform: scale(1.08) !important;
+  box-shadow: 0 6px 20px rgba(23, 93, 82, 0.45) !important;
+}
+
+div.asw-widget .asw-menu-btn:focus-visible,
+.asw-menu-btn:focus-visible {
+  outline: 3px solid #f59e0b !important;
+  outline-offset: 3px !important;
+}
+
+/* Opened Dialog / Menu Panel */
+div.asw-menu,
+.asw-menu {
+  font-family: inherit !important;
+  border-radius: 18px !important;
+  border: 1px solid #d1ddd7 !important;
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.15) !important;
+  overflow: hidden !important;
+  background: #f7f9f7 !important;
+  color: #1c1c1c !important;
+}
+
+/* Menu Header (High Specificity to override runtime adoptedStyleSheets) */
+div.asw-menu div.asw-menu-header,
+html body div.asw-menu-header,
+div.asw-widget div.asw-menu-header,
+.asw-menu .asw-menu-header,
+.asw-menu-header {
+  background: #175d52 !important;
+  background: linear-gradient(135deg, #175d52 0%, #11463e 100%) !important;
+  padding: 1.1rem 1.25rem !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08) !important;
+  color: #ffffff !important;
+}
+
+div.asw-menu div.asw-menu-header a.asw-menu-title,
+.asw-menu .asw-menu-header .asw-menu-title,
+.asw-menu-title {
+  color: #ffffff !important;
+  font-weight: 800 !important;
+  font-size: 1.15rem !important;
+  letter-spacing: -0.2px !important;
+  text-decoration: none !important;
+}
+
+/* Header Close and Reset Action Buttons */
+div.asw-menu .asw-menu-header .asw-menu-close,
+div.asw-menu .asw-menu-header .asw-menu-reset,
+.asw-menu-header .asw-menu-close,
+.asw-menu-header .asw-menu-reset {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 32px !important;
+  height: 32px !important;
+  border-radius: 8px !important;
+  background: rgba(255, 255, 255, 0.15) !important;
+  cursor: pointer !important;
+  transition: all 0.2s ease !important;
+  color: #ffffff !important;
+}
+
+div.asw-menu .asw-menu-header .asw-menu-close:hover,
+div.asw-menu .asw-menu-header .asw-menu-reset:hover,
+.asw-menu-header .asw-menu-close:hover,
+.asw-menu-header .asw-menu-reset:hover {
+  background: rgba(255, 255, 255, 0.3) !important;
+  transform: scale(1.05) !important;
+}
+
+div.asw-menu .asw-menu-header svg,
+div.asw-menu .asw-menu-header .asw-menu-close svg,
+div.asw-menu .asw-menu-header .asw-menu-reset svg,
+.asw-menu-header svg {
+  fill: #ffffff !important;
+  width: 18px !important;
+  height: 18px !important;
+  min-width: 18px !important;
+  min-height: 18px !important;
+}
+
+/* Full-width "Reset settings" Button inside Card */
+div.asw-menu button.asw-menu-reset-footer-btn,
+button.asw-menu-reset-footer-btn,
+.asw-card button.asw-menu-reset {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 100% !important;
+  height: auto !important;
+  min-height: 46px !important;
+  padding: 0.85rem 1.25rem !important;
+  background: #175d52 !important;
+  background: linear-gradient(135deg, #175d52 0%, #11463e 100%) !important;
+  color: #ffffff !important;
+  font-size: 0.95rem !important;
+  font-weight: 700 !important;
+  border-radius: 10px !important;
+  border: 1.5px solid #175d52 !important;
+  cursor: pointer !important;
+  box-shadow: 0 2px 8px rgba(23, 93, 82, 0.25) !important;
+  transition: all 0.2s ease !important;
+  letter-spacing: 0.2px !important;
+  text-align: center !important;
+}
+
+div.asw-menu button.asw-menu-reset-footer-btn:hover,
+button.asw-menu-reset-footer-btn:hover,
+.asw-card button.asw-menu-reset:hover {
+  background: #11463e !important;
+  border-color: #11463e !important;
+  box-shadow: 0 4px 14px rgba(23, 93, 82, 0.4) !important;
+  transform: translateY(-1px) !important;
+}
+
+div.asw-menu button.asw-menu-reset-footer-btn:focus-visible,
+button.asw-menu-reset-footer-btn:focus-visible {
+  outline: 3px solid #f59e0b !important;
+  outline-offset: 2px !important;
+}
+
+/* Menu Body Content & Scrollbar */
+div.asw-menu .asw-menu-content,
+.asw-menu-content {
+  background: #f7f9f7 !important;
+  padding: 1rem !important;
+}
+
+div.asw-menu .asw-menu-content::-webkit-scrollbar,
+.asw-menu-content::-webkit-scrollbar {
+  width: 6px !important;
+}
+
+div.asw-menu .asw-menu-content::-webkit-scrollbar-thumb,
+.asw-menu-content::-webkit-scrollbar-thumb {
+  background-color: #cbd5e1 !important;
+  border-radius: 10px !important;
+}
+
+/* Feature Cards inside Menu */
+div.asw-menu .asw-card,
+.asw-card {
+  background: #ffffff !important;
+  border-radius: 12px !important;
+  border: 1px solid #d1ddd7 !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03) !important;
+  padding: 1rem !important;
+  margin-bottom: 0.85rem !important;
+}
+
+div.asw-menu .asw-card-title,
+div.asw-menu .asw-card-title span,
+div.asw-menu .asw-card-title *,
+.asw-card-title,
+.asw-card-title span,
+.asw-card-title * {
+  font-weight: 700 !important;
+  color: #1c1c1c !important;
+  font-size: 0.95rem !important;
+  margin-bottom: 0.75rem !important;
+}
+
+/* Tool Buttons inside Menu */
+div.asw-menu .asw-btn,
+.asw-btn {
+  background: #ffffff !important;
+  border: 1.5px solid #d1ddd7 !important;
+  border-radius: 10px !important;
+  padding: 0.6rem 0.5rem !important;
+  color: #1c1c1c !important;
+  font-weight: 600 !important;
+  font-size: 0.82rem !important;
+  transition: all 0.18s ease !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.02) !important;
+}
+
+div.asw-menu .asw-btn,
+div.asw-menu .asw-btn span,
+div.asw-menu .asw-btn div,
+div.asw-menu .asw-btn *,
+.asw-btn,
+.asw-btn span,
+.asw-btn div,
+.asw-btn * {
+  color: #1c1c1c !important;
+}
+
+div.asw-menu .asw-btn svg,
+.asw-btn svg {
+  fill: #175d52 !important;
+}
+
+div.asw-menu .asw-btn:hover,
+.asw-btn:hover {
+  border-color: #175d52 !important;
+  background: #e9eee9 !important;
+  color: #175d52 !important;
+  transform: translateY(-1px) !important;
+}
+
+div.asw-menu .asw-btn:hover,
+div.asw-menu .asw-btn:hover span,
+div.asw-menu .asw-btn:hover *,
+.asw-btn:hover,
+.asw-btn:hover span,
+.asw-btn:hover * {
+  color: #175d52 !important;
+}
+
+div.asw-menu .asw-btn.asw-active,
+div.asw-menu .asw-btn.asw-active span,
+div.asw-menu .asw-btn.asw-active *,
+.asw-btn.asw-active,
+.asw-btn.asw-active span,
+.asw-btn.asw-active * {
+  background: #175d52 !important;
+  border-color: #175d52 !important;
+  color: #ffffff !important;
+}
+
+div.asw-menu .asw-btn.asw-active,
+.asw-btn.asw-active {
+  box-shadow: 0 3px 8px rgba(23, 93, 82, 0.25) !important;
+}
+
+div.asw-menu .asw-btn.asw-active svg,
+.asw-btn.asw-active svg {
+  fill: #ffffff !important;
+}
+
+/* Multilingual Select in Widget */
+div.asw-menu .asw-select,
+.asw-select {
+  font-family: inherit !important;
+  border: 1.5px solid #d1ddd7 !important;
+  border-radius: 8px !important;
+  padding: 0.5rem 0.75rem !important;
+  font-size: 0.9rem !important;
+  font-weight: 600 !important;
+  color: #1c1c1c !important;
+  background: #ffffff !important;
+  width: 100% !important;
+  outline: none !important;
+}
+
+div.asw-menu .asw-select:focus-visible,
+.asw-select:focus-visible {
+  border-color: #175d52 !important;
+  outline: 2px solid #175d52 !important;
+}
+
+/* ==========================================================================
+   Feature Curation for NeighbourlyMinds Target Audience
+   ========================================================================== */
+
+/* 1. Hide redundant font-size steppers (NeighbourlyMinds has native A/A+/A++) */
+.asw-btn:has([data-translate="Adjust Font Size"]),
+.asw-btn:has([data-translate="Increase Font Size"]),
+.asw-btn:has([data-translate="Decrease Font Size"]),
+.asw-adjust-font,
+.asw-items:has(.asw-btn:has([data-translate="Increase Font Size"])) {
+  display: none !important;
+}
+
+/* 2. Hide tools that conflict with interactive SVG visualizers & room guides */
+.asw-btn:has([data-translate="Hide Images"]),
+.asw-btn:has([data-translate="Image Tooltips"]),
+.asw-btn:has([data-translate="PDF Reader"]),
+.asw-btn:has([data-translate="Super Focus"]),
+.asw-btn:has([data-translate="Magnifier"]),
+.asw-btn:has([data-translate="Page Structure"]) {
+  display: none !important;
+}
+
+/* 3. Hide external promotional links and footer info icons */
+.asw-info-icon,
+.asw-menu-footer,
+.asw-footer,
+.asw-footer-powered {
+  display: none !important;
+}
+
+/* 4. Hide User-Specified Tools: Highlight Links, High Contrast, Light Contrast, Stop Animations */
+.asw-btn[data-key="highlight-links"],
+.asw-btn:has([data-translate="Highlight Links"]),
+.asw-btn:has([data-translate*="Highlight Links" i]),
+.asw-btn[title*="Highlight Links" i],
+.asw-btn[aria-label*="Highlight Links" i],
+
+.asw-btn[data-key="high-contrast"],
+.asw-btn:has([data-translate="High Contrast"]),
+.asw-btn:has([data-translate*="High Contrast" i]),
+.asw-btn[title*="High Contrast" i],
+.asw-btn[aria-label*="High Contrast" i],
+
+.asw-btn[data-key="light-contrast"],
+.asw-btn:has([data-translate="Light Contrast"]),
+.asw-btn:has([data-translate*="Light Contrast" i]),
+.asw-btn[title*="Light Contrast" i],
+.asw-btn[aria-label*="Light Contrast" i],
+
+.asw-btn[data-key="dark-contrast"],
+.asw-btn:has([data-translate="Dark Contrast"]),
+.asw-btn:has([data-translate*="Dark Contrast" i]),
+.asw-btn[title*="Dark Contrast" i],
+.asw-btn[aria-label*="Dark Contrast" i],
+
+.asw-btn[data-key="stop-animations"],
+.asw-btn[data-key="stop-animation"],
+.asw-btn:has([data-translate="Stop Animations"]),
+.asw-btn:has([data-translate="Stop Animation"]),
+.asw-btn:has([data-translate="Pause Animations"]),
+.asw-btn:has([data-translate*="Stop Animation" i]),
+.asw-btn:has([data-translate*="Pause Animation" i]),
+.asw-btn[title*="Stop Animation" i],
+.asw-btn[title*="Pause Animation" i],
+.asw-btn[aria-label*="Stop Animation" i],
+.asw-btn[aria-label*="Pause Animation" i] {
+  display: none !important;
+}
+
+/* 5. Hide the entire 'Additional Tools' card container */
+.asw-card:has(.tools),
+.asw-card:has(.asw-tools),
+.asw-card:has([data-translate="Additional Tools"]),
+.asw-card:has([data-translate*="Additional Tools" i]) {
+  display: none !important;
+}

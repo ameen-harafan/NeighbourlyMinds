@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/jpeg" href="/src/assets/Logo.jpeg">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="color-scheme" content="light">
+    <title>NeighbourlyMinds - Designing for Independence</title>
+    <script>
+      if (window.location.hostname === 'neighborlyminds.me') {
+        window.location.replace('https://www.neighborlyminds.me' + window.location.pathname + window.location.search + window.location.hash);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script type="module" src="/src/main.ts"></script>
+    <!-- Sienna Accessibility Widget (Open Source & WCAG 2.2 / ADA Compliance Toolbar) -->
+    <!-- Version is pinned so the integrity hash stays valid. Update both together. -->
+    <script 
+      src="https://cdn.jsdelivr.net/npm/sienna-accessibility@2.2.333/dist/sienna-accessibility.umd.js" 
+      integrity="sha384-0KH2WYpIKGviyNd2L73jN0B5O/d6vMdncUyRe/ZuE1f9wLaExDOAJE6OH5TQRtOQ"
+      crossorigin="anonymous"
+      data-primary-color="#175d52" 
+      data-position="bottom-left"
+      defer
+    ></script>
+  </body>
+</html>

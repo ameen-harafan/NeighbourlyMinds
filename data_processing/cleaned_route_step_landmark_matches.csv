@@ -1,0 +1,32 @@
+route_id,step_order,turn_type,latitude,longitude,landmark_id,landmark_name,landmark_group,landmark_distance_m,landmark_confidence,landmark_source
+R001,1,start,-37.8100167,144.9637893,LM_000006,Melbourne Central Railway Station,major_public_landmark,0.0,high,City of Melbourne Landmarks and Places of Interest
+R001,2,right,-37.8097505,144.9637448,LM_000006,Melbourne Central Railway Station,major_public_landmark,29.9,high,City of Melbourne Landmarks and Places of Interest
+R001,3,right,-37.809682,144.964001,LM_000006,Melbourne Central Railway Station,major_public_landmark,41.6,high,City of Melbourne Landmarks and Places of Interest
+R001,4,left,-37.810097,144.9641875,LM_000039,State Library Victoria,major_public_landmark,17.7,high,City of Melbourne Landmarks and Places of Interest
+R001,5,arrival,-37.8099852,144.9643303,LM_000039,State Library Victoria,major_public_landmark,0.0,high,City of Melbourne Landmarks and Places of Interest
+R002,1,start,-37.8099852,144.9643303,LM_000039,State Library Victoria,major_public_landmark,0.0,high,City of Melbourne Landmarks and Places of Interest
+R002,2,left,-37.8151218,144.9664881,LM_000194,Melbourne Town Hall,major_public_landmark,7.0,high,City of Melbourne Landmarks and Places of Interest
+R002,3,arrival,-37.8150755,144.9665427,LM_000194,Melbourne Town Hall,major_public_landmark,0.0,high,City of Melbourne Landmarks and Places of Interest
+R003,1,start,-37.8150755,144.9665427,LM_000194,Melbourne Town Hall,major_public_landmark,0.0,high,City of Melbourne Landmarks and Places of Interest
+R003,2,left,-37.8183765,144.9679904,LM_025352,Flinders Street Station,transport_station,33.2,high,Victorian Public Transport Stops
+R003,3,straight,-37.8179793,144.9688413,LM_000018,Federation Square,major_public_landmark,0.0,high,City of Melbourne Landmarks and Places of Interest
+R003,4,arrival,-37.8178517,144.9689636,LM_000018,Federation Square,major_public_landmark,0.0,high,City of Melbourne Landmarks and Places of Interest
+R004,1,start,-37.8178517,144.9689636,LM_000018,Federation Square,major_public_landmark,0.0,high,City of Melbourne Landmarks and Places of Interest
+R004,2,right,-37.8183765,144.9679904,LM_025352,Flinders Street Station,transport_station,33.2,high,Victorian Public Transport Stops
+R004,3,right,-37.8154736,144.9670127,LM_027315,Collins St,transport_station,17.4,high,Victorian Public Transport Stops
+R004,4,left,-37.8134593,144.9738638,LM_021424,Sir William John Clarke,heritage_landmark,48.5,high,Vicmap Features of Interest
+R004,5,straight,-37.8116897,144.9730411,LM_000002,Parliament Railway Station,major_public_landmark,0.0,high,City of Melbourne Landmarks and Places of Interest
+R004,6,arrival,-37.8116062,144.9730173,LM_000002,Parliament Railway Station,major_public_landmark,0.0,high,City of Melbourne Landmarks and Places of Interest
+R005,1,start,-37.8075002,144.9571585,LM_000038,Queen Victoria Market,major_public_landmark,0.0,high,City of Melbourne Landmarks and Places of Interest
+R005,2,right,-37.8063996,144.9592515,LM_006350,Duke And Duchess Of York Memorial,heritage_landmark,63.2,medium,Vicmap Features of Interest
+R005,3,right,-37.8067831,144.9630303,LM_027229,Franklin St DP 1,transport_station,69.3,medium,Victorian Public Transport Stops
+R005,4,left,-37.810097,144.9641875,LM_000039,State Library Victoria,major_public_landmark,17.7,high,City of Melbourne Landmarks and Places of Interest
+R005,5,arrival,-37.8099852,144.9643303,LM_000039,State Library Victoria,major_public_landmark,0.0,high,City of Melbourne Landmarks and Places of Interest
+R006,1,start,-37.8046026,144.9715219,LM_000079,Royal Exhibition Building,local_landmark,0.0,high,City of Melbourne Landmarks and Places of Interest
+R006,2,left,-37.8053992,144.9710803,LM_021847,Carlton Gardens South,park_green_space,99.7,medium,Vicmap Features of Interest
+R006,3,right,-37.8056424,144.9712849,LM_021847,Carlton Gardens South,park_green_space,71.8,medium,Vicmap Features of Interest
+R006,4,left,-37.807181,144.9690028,LM_021700,Royal Society Of Victoria,park_green_space,47.4,high,Vicmap Features of Interest
+R006,5,right,-37.807991,144.968858,LM_021016,Exhibition Street Reserve,park_green_space,62.5,medium,Vicmap Features of Interest
+R006,6,left,-37.809524,144.963644,LM_027227,Swanston St,transport_station,21.5,high,Victorian Public Transport Stops
+R006,7,right,-37.8100358,144.9639015,LM_000006,Melbourne Central Railway Station,major_public_landmark,10.1,high,City of Melbourne Landmarks and Places of Interest
+R006,8,arrival,-37.8100167,144.9637893,LM_000006,Melbourne Central Railway Station,major_public_landmark,0.0,high,City of Melbourne Landmarks and Places of Interest

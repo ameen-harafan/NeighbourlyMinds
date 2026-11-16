@@ -1,0 +1,1107 @@
+S/T code,S/T name,LGA code,LGA name,Sex,Age group,Population,Prevalence per 1000,Modelled estimate
+2,Victoria,20110,Alpine,Male,30-59,2283,0.49,1.11867
+2,Victoria,20260,Ararat,Male,30-59,2391,0.49,1.17159
+2,Victoria,20570,Ballarat,Male,30-59,22081,0.49,10.819690000000001
+2,Victoria,20660,Banyule,Male,30-59,26153,0.49,12.814969999999999
+2,Victoria,20740,Bass Coast,Male,30-59,6769,0.49,3.31681
+2,Victoria,20830,Baw Baw,Male,30-59,10786,0.49,5.28514
+2,Victoria,20910,Bayside (Vic.),Male,30-59,18576,0.49,9.10224
+2,Victoria,21010,Benalla,Male,30-59,2271,0.49,1.11279
+2,Victoria,21110,Boroondara,Male,30-59,31568,0.49,15.46832
+2,Victoria,21180,Brimbank,Male,30-59,39159,0.49,19.18791
+2,Victoria,21270,Buloke,Male,30-59,933,0.49,0.45717
+2,Victoria,21370,Campaspe,Male,30-59,6139,0.49,3.0081100000000003
+2,Victoria,21450,Cardinia,Male,30-59,27228,0.49,13.341719999999999
+2,Victoria,21610,Casey,Male,30-59,85984,0.49,42.13216
+2,Victoria,21670,Central Goldfields,Male,30-59,2088,0.49,1.02312
+2,Victoria,21750,Colac Otway,Male,30-59,3861,0.49,1.8918899999999998
+2,Victoria,21830,Corangamite,Male,30-59,2608,0.49,1.2779200000000002
+2,Victoria,21890,Darebin,Male,30-59,36467,0.49,17.86883
+2,Victoria,22110,East Gippsland,Male,30-59,7267,0.49,3.5608299999999997
+2,Victoria,22170,Frankston,Male,30-59,29190,0.49,14.3031
+2,Victoria,22250,Gannawarra,Male,30-59,1550,0.49,0.7595
+2,Victoria,22310,Glen Eira,Male,30-59,32384,0.49,15.86816
+2,Victoria,22410,Glenelg,Male,30-59,3261,0.49,1.5978899999999998
+2,Victoria,22490,Golden Plains,Male,30-59,5216,0.49,2.5558400000000003
+2,Victoria,22620,Greater Bendigo,Male,30-59,22118,0.49,10.837819999999999
+2,Victoria,22670,Greater Dandenong,Male,30-59,34629,0.49,16.96821
+2,Victoria,22750,Greater Geelong,Male,30-59,54525,0.49,26.71725
+2,Victoria,22830,Greater Shepparton,Male,30-59,12618,0.49,6.1828199999999995
+2,Victoria,22910,Hepburn,Male,30-59,2984,0.49,1.4621600000000001
+2,Victoria,22980,Hindmarsh,Male,30-59,880,0.49,0.43119999999999997
+2,Victoria,23110,Hobsons Bay,Male,30-59,20272,0.49,9.93328
+2,Victoria,23190,Horsham,Male,30-59,3529,0.49,1.7292100000000001
+2,Victoria,23270,Hume,Male,30-59,57419,0.49,28.135309999999997
+2,Victoria,23350,Indigo,Male,30-59,3022,0.49,1.48078
+2,Victoria,23430,Kingston (Vic.),Male,30-59,33087,0.49,16.21263
+2,Victoria,23670,Knox,Male,30-59,32138,0.49,15.74762
+2,Victoria,23810,Latrobe (Vic.),Male,30-59,13799,0.49,6.76151
+2,Victoria,23940,Loddon,Male,30-59,1247,0.49,0.61103
+2,Victoria,24130,Macedon Ranges,Male,30-59,9945,0.49,4.87305
+2,Victoria,24210,Manningham,Male,30-59,24094,0.49,11.806059999999999
+2,Victoria,24250,Mansfield,Male,30-59,1756,0.49,0.86044
+2,Victoria,24330,Maribyrnong,Male,30-59,23103,0.49,11.320469999999998
+2,Victoria,24410,Maroondah,Male,30-59,23711,0.49,11.61839
+2,Victoria,24600,Melbourne,Male,30-59,39674,0.49,19.44026
+2,Victoria,24650,Melton,Male,30-59,50256,0.49,24.625439999999998
+2,Victoria,24700,Merri-bek,Male,30-59,43212,0.49,21.17388
+2,Victoria,24780,Mildura,Male,30-59,10256,0.49,5.02544
+2,Victoria,24850,Mitchell,Male,30-59,11410,0.49,5.5908999999999995
+2,Victoria,24900,Moira,Male,30-59,5030,0.49,2.4646999999999997
+2,Victoria,24970,Monash,Male,30-59,39744,0.49,19.47456
+2,Victoria,25060,Moonee Valley,Male,30-59,26626,0.49,13.04674
+2,Victoria,25150,Moorabool,Male,30-59,7948,0.49,3.89452
+2,Victoria,25340,Mornington Peninsula,Male,30-59,27643,0.49,13.545069999999999
+2,Victoria,25430,Mount Alexander,Male,30-59,3826,0.49,1.87474
+2,Victoria,25490,Moyne,Male,30-59,3038,0.49,1.4886199999999998
+2,Victoria,25620,Murrindindi,Male,30-59,2701,0.49,1.32349
+2,Victoria,25710,Nillumbik,Male,30-59,11537,0.49,5.65313
+2,Victoria,25810,Northern Grampians,Male,30-59,1998,0.49,0.97902
+2,Victoria,25900,Port Phillip,Male,30-59,27759,0.49,13.60191
+2,Victoria,25990,Pyrenees,Male,30-59,1474,0.49,0.72226
+2,Victoria,26080,Queenscliffe,Male,30-59,333,0.49,0.16316999999999998
+2,Victoria,26170,South Gippsland,Male,30-59,4967,0.49,2.43383
+2,Victoria,26260,Southern Grampians,Male,30-59,2654,0.49,1.30046
+2,Victoria,26350,Stonnington,Male,30-59,23911,0.49,11.716389999999999
+2,Victoria,26430,Strathbogie,Male,30-59,1761,0.49,0.8628899999999999
+2,Victoria,26490,Surf Coast,Male,30-59,7514,0.49,3.68186
+2,Victoria,26610,Swan Hill,Male,30-59,3930,0.49,1.9257
+2,Victoria,26670,Towong,Male,30-59,1013,0.49,0.49637
+2,Victoria,26700,Wangaratta,Male,30-59,5124,0.49,2.51076
+2,Victoria,26730,Warrnambool,Male,30-59,6480,0.49,3.1752
+2,Victoria,26810,Wellington,Male,30-59,8183,0.49,4.00967
+2,Victoria,26890,West Wimmera,Male,30-59,605,0.49,0.29645
+2,Victoria,26980,Whitehorse,Male,30-59,35159,0.49,17.22791
+2,Victoria,27070,Whittlesea,Male,30-59,54114,0.49,26.51586
+2,Victoria,27170,Wodonga,Male,30-59,7826,0.49,3.8347399999999996
+2,Victoria,27260,Wyndham,Male,30-59,78718,0.49,38.57182
+2,Victoria,27350,Yarra,Male,30-59,25422,0.49,12.45678
+2,Victoria,27450,Yarra Ranges,Male,30-59,30777,0.49,15.080729999999999
+2,Victoria,27630,Yarriambiack,Male,30-59,938,0.49,0.45962000000000003
+2,Victoria,20110,Alpine,Female,30-59,2390,0.57,1.3622999999999998
+2,Victoria,20260,Ararat,Female,30-59,1941,0.57,1.1063699999999999
+2,Victoria,20570,Ballarat,Female,30-59,23731,0.57,13.526669999999998
+2,Victoria,20660,Banyule,Female,30-59,27543,0.57,15.699509999999998
+2,Victoria,20740,Bass Coast,Female,30-59,7555,0.57,4.306349999999999
+2,Victoria,20830,Baw Baw,Female,30-59,11703,0.57,6.670709999999999
+2,Victoria,20910,Bayside (Vic.),Female,30-59,21149,0.57,12.054929999999999
+2,Victoria,21010,Benalla,Female,30-59,2468,0.57,1.40676
+2,Victoria,21110,Boroondara,Female,30-59,35300,0.57,20.121
+2,Victoria,21180,Brimbank,Female,30-59,39092,0.57,22.282439999999998
+2,Victoria,21270,Buloke,Female,30-59,932,0.57,0.53124
+2,Victoria,21370,Campaspe,Female,30-59,6556,0.57,3.7369199999999996
+2,Victoria,21450,Cardinia,Female,30-59,28063,0.57,15.995909999999999
+2,Victoria,21610,Casey,Female,30-59,86948,0.57,49.560359999999996
+2,Victoria,21670,Central Goldfields,Female,30-59,2194,0.57,1.25058
+2,Victoria,21750,Colac Otway,Female,30-59,4005,0.57,2.28285
+2,Victoria,21830,Corangamite,Female,30-59,2677,0.57,1.52589
+2,Victoria,21890,Darebin,Female,30-59,38153,0.57,21.74721
+2,Victoria,22110,East Gippsland,Female,30-59,8221,0.57,4.685969999999999
+2,Victoria,22170,Frankston,Female,30-59,30760,0.57,17.533199999999997
+2,Victoria,22250,Gannawarra,Female,30-59,1695,0.57,0.9661499999999998
+2,Victoria,22310,Glen Eira,Female,30-59,34669,0.57,19.761329999999997
+2,Victoria,22410,Glenelg,Female,30-59,3507,0.57,1.9989899999999998
+2,Victoria,22490,Golden Plains,Female,30-59,5298,0.57,3.0198599999999995
+2,Victoria,22620,Greater Bendigo,Female,30-59,24170,0.57,13.7769
+2,Victoria,22670,Greater Dandenong,Female,30-59,32797,0.57,18.69429
+2,Victoria,22750,Greater Geelong,Female,30-59,57418,0.57,32.72826
+2,Victoria,22830,Greater Shepparton,Female,30-59,13054,0.57,7.44078
+2,Victoria,22910,Hepburn,Female,30-59,3159,0.57,1.80063
+2,Victoria,22980,Hindmarsh,Female,30-59,933,0.57,0.5318099999999999
+2,Victoria,23110,Hobsons Bay,Female,30-59,21490,0.57,12.2493
+2,Victoria,23190,Horsham,Female,30-59,3578,0.57,2.0394599999999996
+2,Victoria,23270,Hume,Female,30-59,57699,0.57,32.88843
+2,Victoria,23350,Indigo,Female,30-59,3295,0.57,1.8781499999999998
+2,Victoria,23430,Kingston (Vic.),Female,30-59,35566,0.57,20.27262
+2,Victoria,23670,Knox,Female,30-59,34007,0.57,19.383989999999997
+2,Victoria,23810,Latrobe (Vic.),Female,30-59,14805,0.57,8.438849999999999
+2,Victoria,23940,Loddon,Female,30-59,1238,0.57,0.70566
+2,Victoria,24130,Macedon Ranges,Female,30-59,10917,0.57,6.222689999999999
+2,Victoria,24210,Manningham,Female,30-59,26469,0.57,15.087329999999998
+2,Victoria,24250,Mansfield,Female,30-59,1887,0.57,1.0755899999999998
+2,Victoria,24330,Maribyrnong,Female,30-59,22493,0.57,12.821009999999998
+2,Victoria,24410,Maroondah,Female,30-59,25564,0.57,14.57148
+2,Victoria,24600,Melbourne,Female,30-59,36567,0.57,20.84319
+2,Victoria,24650,Melton,Female,30-59,49837,0.57,28.407089999999997
+2,Victoria,24700,Merri-bek,Female,30-59,44146,0.57,25.16322
+2,Victoria,24780,Mildura,Female,30-59,10737,0.57,6.120089999999999
+2,Victoria,24850,Mitchell,Female,30-59,11562,0.57,6.590339999999999
+2,Victoria,24900,Moira,Female,30-59,5109,0.57,2.9121299999999994
+2,Victoria,24970,Monash,Female,30-59,39773,0.57,22.670609999999996
+2,Victoria,25060,Moonee Valley,Female,30-59,27846,0.57,15.872219999999999
+2,Victoria,25150,Moorabool,Female,30-59,8154,0.57,4.64778
+2,Victoria,25340,Mornington Peninsula,Female,30-59,30585,0.57,17.433449999999997
+2,Victoria,25430,Mount Alexander,Female,30-59,3788,0.57,2.15916
+2,Victoria,25490,Moyne,Female,30-59,3159,0.57,1.80063
+2,Victoria,25620,Murrindindi,Female,30-59,2777,0.57,1.58289
+2,Victoria,25710,Nillumbik,Female,30-59,12505,0.57,7.12785
+2,Victoria,25810,Northern Grampians,Female,30-59,2033,0.57,1.15881
+2,Victoria,25900,Port Phillip,Female,30-59,28851,0.57,16.44507
+2,Victoria,25990,Pyrenees,Female,30-59,1358,0.57,0.77406
+2,Victoria,26080,Queenscliffe,Female,30-59,408,0.57,0.23255999999999996
+2,Victoria,26170,South Gippsland,Female,30-59,5304,0.57,3.0232799999999997
+2,Victoria,26260,Southern Grampians,Female,30-59,2776,0.57,1.58232
+2,Victoria,26350,Stonnington,Female,30-59,24845,0.57,14.16165
+2,Victoria,26430,Strathbogie,Female,30-59,1962,0.57,1.11834
+2,Victoria,26490,Surf Coast,Female,30-59,7979,0.57,4.54803
+2,Victoria,26610,Swan Hill,Female,30-59,3818,0.57,2.1762599999999996
+2,Victoria,26670,Towong,Female,30-59,1026,0.57,0.5848199999999999
+2,Victoria,26700,Wangaratta,Female,30-59,5580,0.57,3.1806
+2,Victoria,26730,Warrnambool,Female,30-59,6895,0.57,3.93015
+2,Victoria,26810,Wellington,Female,30-59,8262,0.57,4.709339999999999
+2,Victoria,26890,West Wimmera,Female,30-59,629,0.57,0.35852999999999996
+2,Victoria,26980,Whitehorse,Female,30-59,37434,0.57,21.337379999999996
+2,Victoria,27070,Whittlesea,Female,30-59,55349,0.57,31.548929999999995
+2,Victoria,27170,Wodonga,Female,30-59,8590,0.57,4.896299999999999
+2,Victoria,27260,Wyndham,Female,30-59,76909,0.57,43.83813
+2,Victoria,27350,Yarra,Female,30-59,24106,0.57,13.740419999999999
+2,Victoria,27450,Yarra Ranges,Female,30-59,32348,0.57,18.438359999999996
+2,Victoria,27630,Yarriambiack,Female,30-59,994,0.57,0.56658
+2,Victoria,20110,Alpine,Male,60-64,503,13.96,7.02188
+2,Victoria,20260,Ararat,Male,60-64,457,13.96,6.37972
+2,Victoria,20570,Ballarat,Male,60-64,3256,13.96,45.45376
+2,Victoria,20660,Banyule,Male,60-64,3385,13.96,47.2546
+2,Victoria,20740,Bass Coast,Male,60-64,1729,13.96,24.13684
+2,Victoria,20830,Baw Baw,Male,60-64,1875,13.96,26.175
+2,Victoria,20910,Bayside (Vic.),Male,60-64,3412,13.96,47.63152
+2,Victoria,21010,Benalla,Male,60-64,577,13.96,8.05492
+2,Victoria,21110,Boroondara,Male,60-64,4805,13.96,67.0778
+2,Victoria,21180,Brimbank,Male,60-64,5654,13.96,78.92984000000001
+2,Victoria,21270,Buloke,Male,60-64,272,13.96,3.7971200000000005
+2,Victoria,21370,Campaspe,Male,60-64,1412,13.96,19.71152
+2,Victoria,21450,Cardinia,Male,60-64,2938,13.96,41.014480000000006
+2,Victoria,21610,Casey,Male,60-64,9427,13.96,131.60092
+2,Victoria,21670,Central Goldfields,Male,60-64,514,13.96,7.175440000000001
+2,Victoria,21750,Colac Otway,Male,60-64,794,13.96,11.08424
+2,Victoria,21830,Corangamite,Male,60-64,614,13.96,8.57144
+2,Victoria,21890,Darebin,Male,60-64,3586,13.96,50.06056
+2,Victoria,22110,East Gippsland,Male,60-64,1985,13.96,27.710600000000003
+2,Victoria,22170,Frankston,Male,60-64,4054,13.96,56.59384000000001
+2,Victoria,22250,Gannawarra,Male,60-64,423,13.96,5.90508
+2,Victoria,22310,Glen Eira,Male,60-64,3855,13.96,53.8158
+2,Victoria,22410,Glenelg,Male,60-64,857,13.96,11.96372
+2,Victoria,22490,Golden Plains,Male,60-64,817,13.96,11.405320000000001
+2,Victoria,22620,Greater Bendigo,Male,60-64,3676,13.96,51.31696000000001
+2,Victoria,22670,Greater Dandenong,Male,60-64,4116,13.96,57.459360000000004
+2,Victoria,22750,Greater Geelong,Male,60-64,7814,13.96,109.08344
+2,Victoria,22830,Greater Shepparton,Male,60-64,2055,13.96,28.687800000000003
+2,Victoria,22910,Hepburn,Male,60-64,751,13.96,10.483960000000002
+2,Victoria,22980,Hindmarsh,Male,60-64,248,13.96,3.4620800000000003
+2,Victoria,23110,Hobsons Bay,Male,60-64,2784,13.96,38.86464
+2,Victoria,23190,Horsham,Male,60-64,612,13.96,8.543520000000001
+2,Victoria,23270,Hume,Male,60-64,6569,13.96,91.70324000000001
+2,Victoria,23350,Indigo,Male,60-64,699,13.96,9.758040000000001
+2,Victoria,23430,Kingston (Vic.),Male,60-64,4629,13.96,64.62084
+2,Victoria,23670,Knox,Male,60-64,4818,13.96,67.25928
+2,Victoria,23810,Latrobe (Vic.),Male,60-64,2581,13.96,36.03076
+2,Victoria,23940,Loddon,Male,60-64,339,13.96,4.73244
+2,Victoria,24130,Macedon Ranges,Male,60-64,1787,13.96,24.94652
+2,Victoria,24210,Manningham,Male,60-64,3772,13.96,52.657120000000006
+2,Victoria,24250,Mansfield,Male,60-64,446,13.96,6.226160000000001
+2,Victoria,24330,Maribyrnong,Male,60-64,1925,13.96,26.873
+2,Victoria,24410,Maroondah,Male,60-64,3201,13.96,44.68596
+2,Victoria,24600,Melbourne,Male,60-64,2202,13.96,30.73992
+2,Victoria,24650,Melton,Male,60-64,4062,13.96,56.70552000000001
+2,Victoria,24700,Merri-bek,Male,60-64,3840,13.96,53.6064
+2,Victoria,24780,Mildura,Male,60-64,1711,13.96,23.88556
+2,Victoria,24850,Mitchell,Male,60-64,1571,13.96,21.93116
+2,Victoria,24900,Moira,Male,60-64,1111,13.96,15.50956
+2,Victoria,24970,Monash,Male,60-64,4663,13.96,65.09548000000001
+2,Victoria,25060,Moonee Valley,Male,60-64,3327,13.96,46.44492
+2,Victoria,25150,Moorabool,Male,60-64,1184,13.96,16.52864
+2,Victoria,25340,Mornington Peninsula,Male,60-64,5603,13.96,78.21788000000001
+2,Victoria,25430,Mount Alexander,Male,60-64,770,13.96,10.7492
+2,Victoria,25490,Moyne,Male,60-64,622,13.96,8.68312
+2,Victoria,25620,Murrindindi,Male,60-64,713,13.96,9.95348
+2,Victoria,25710,Nillumbik,Male,60-64,2186,13.96,30.516560000000002
+2,Victoria,25810,Northern Grampians,Male,60-64,452,13.96,6.30992
+2,Victoria,25900,Port Phillip,Male,60-64,3000,13.96,41.88
+2,Victoria,25990,Pyrenees,Male,60-64,322,13.96,4.49512
+2,Victoria,26080,Queenscliffe,Male,60-64,112,13.96,1.56352
+2,Victoria,26170,South Gippsland,Male,60-64,1217,13.96,16.98932
+2,Victoria,26260,Southern Grampians,Male,60-64,582,13.96,8.12472
+2,Victoria,26350,Stonnington,Male,60-64,2589,13.96,36.14244
+2,Victoria,26430,Strathbogie,Male,60-64,490,13.96,6.840400000000001
+2,Victoria,26490,Surf Coast,Male,60-64,1275,13.96,17.799
+2,Victoria,26610,Swan Hill,Male,60-64,732,13.96,10.218720000000001
+2,Victoria,26670,Towong,Male,60-64,289,13.96,4.03444
+2,Victoria,26700,Wangaratta,Male,60-64,949,13.96,13.248040000000001
+2,Victoria,26730,Warrnambool,Male,60-64,1029,13.96,14.364840000000001
+2,Victoria,26810,Wellington,Male,60-64,1685,13.96,23.5226
+2,Victoria,26890,West Wimmera,Male,60-64,174,13.96,2.42904
+2,Victoria,26980,Whitehorse,Male,60-64,4315,13.96,60.2374
+2,Victoria,27070,Whittlesea,Male,60-64,5560,13.96,77.61760000000001
+2,Victoria,27170,Wodonga,Male,60-64,1208,13.96,16.86368
+2,Victoria,27260,Wyndham,Male,60-64,5629,13.96,78.58084000000001
+2,Victoria,27350,Yarra,Male,60-64,2101,13.96,29.329960000000003
+2,Victoria,27450,Yarra Ranges,Male,60-64,4880,13.96,68.12480000000001
+2,Victoria,27630,Yarriambiack,Male,60-64,308,13.96,4.29968
+2,Victoria,20110,Alpine,Female,60-64,541,16.75,9.06175
+2,Victoria,20260,Ararat,Female,60-64,438,16.75,7.3365
+2,Victoria,20570,Ballarat,Female,60-64,3580,16.75,59.965
+2,Victoria,20660,Banyule,Female,60-64,3831,16.75,64.16925
+2,Victoria,20740,Bass Coast,Female,60-64,2024,16.75,33.902
+2,Victoria,20830,Baw Baw,Female,60-64,2112,16.75,35.376
+2,Victoria,20910,Bayside (Vic.),Female,60-64,3790,16.75,63.4825
+2,Victoria,21010,Benalla,Female,60-64,661,16.75,11.07175
+2,Victoria,21110,Boroondara,Female,60-64,5274,16.75,88.3395
+2,Victoria,21180,Brimbank,Female,60-64,5762,16.75,96.5135
+2,Victoria,21270,Buloke,Female,60-64,256,16.75,4.288
+2,Victoria,21370,Campaspe,Female,60-64,1522,16.75,25.4935
+2,Victoria,21450,Cardinia,Female,60-64,3205,16.75,53.68375
+2,Victoria,21610,Casey,Female,60-64,9496,16.75,159.058
+2,Victoria,21670,Central Goldfields,Female,60-64,625,16.75,10.46875
+2,Victoria,21750,Colac Otway,Female,60-64,843,16.75,14.12025
+2,Victoria,21830,Corangamite,Female,60-64,631,16.75,10.56925
+2,Victoria,21890,Darebin,Female,60-64,3934,16.75,65.8945
+2,Victoria,22110,East Gippsland,Female,60-64,2095,16.75,35.09125
+2,Victoria,22170,Frankston,Female,60-64,4441,16.75,74.38675
+2,Victoria,22250,Gannawarra,Female,60-64,405,16.75,6.78375
+2,Victoria,22310,Glen Eira,Female,60-64,4117,16.75,68.95975
+2,Victoria,22410,Glenelg,Female,60-64,840,16.75,14.07
+2,Victoria,22490,Golden Plains,Female,60-64,830,16.75,13.9025
+2,Victoria,22620,Greater Bendigo,Female,60-64,4222,16.75,70.7185
+2,Victoria,22670,Greater Dandenong,Female,60-64,4217,16.75,70.63475
+2,Victoria,22750,Greater Geelong,Female,60-64,8913,16.75,149.29275
+2,Victoria,22830,Greater Shepparton,Female,60-64,2146,16.75,35.9455
+2,Victoria,22910,Hepburn,Female,60-64,804,16.75,13.467
+2,Victoria,22980,Hindmarsh,Female,60-64,231,16.75,3.86925
+2,Victoria,23110,Hobsons Bay,Female,60-64,2856,16.75,47.838
+2,Victoria,23190,Horsham,Female,60-64,663,16.75,11.10525
+2,Victoria,23270,Hume,Female,60-64,6715,16.75,112.47625
+2,Victoria,23350,Indigo,Female,60-64,721,16.75,12.07675
+2,Victoria,23430,Kingston (Vic.),Female,60-64,5007,16.75,83.86725
+2,Victoria,23670,Knox,Female,60-64,5269,16.75,88.25575
+2,Victoria,23810,Latrobe (Vic.),Female,60-64,2734,16.75,45.7945
+2,Victoria,23940,Loddon,Female,60-64,351,16.75,5.87925
+2,Victoria,24130,Macedon Ranges,Female,60-64,1818,16.75,30.4515
+2,Victoria,24210,Manningham,Female,60-64,4172,16.75,69.881
+2,Victoria,24250,Mansfield,Female,60-64,449,16.75,7.52075
+2,Victoria,24330,Maribyrnong,Female,60-64,1999,16.75,33.48325
+2,Victoria,24410,Maroondah,Female,60-64,3577,16.75,59.91475
+2,Victoria,24600,Melbourne,Female,60-64,2137,16.75,35.79475
+2,Victoria,24650,Melton,Female,60-64,4250,16.75,71.1875
+2,Victoria,24700,Merri-bek,Female,60-64,4163,16.75,69.73025
+2,Victoria,24780,Mildura,Female,60-64,1851,16.75,31.00425
+2,Victoria,24850,Mitchell,Female,60-64,1583,16.75,26.51525
+2,Victoria,24900,Moira,Female,60-64,1179,16.75,19.74825
+2,Victoria,24970,Monash,Female,60-64,5068,16.75,84.889
+2,Victoria,25060,Moonee Valley,Female,60-64,3676,16.75,61.573
+2,Victoria,25150,Moorabool,Female,60-64,1270,16.75,21.2725
+2,Victoria,25340,Mornington Peninsula,Female,60-64,6359,16.75,106.51325
+2,Victoria,25430,Mount Alexander,Female,60-64,894,16.75,14.9745
+2,Victoria,25490,Moyne,Female,60-64,698,16.75,11.6915
+2,Victoria,25620,Murrindindi,Female,60-64,627,16.75,10.50225
+2,Victoria,25710,Nillumbik,Female,60-64,2324,16.75,38.927
+2,Victoria,25810,Northern Grampians,Female,60-64,455,16.75,7.62125
+2,Victoria,25900,Port Phillip,Female,60-64,2946,16.75,49.3455
+2,Victoria,25990,Pyrenees,Female,60-64,301,16.75,5.04175
+2,Victoria,26080,Queenscliffe,Female,60-64,155,16.75,2.59625
+2,Victoria,26170,South Gippsland,Female,60-64,1319,16.75,22.09325
+2,Victoria,26260,Southern Grampians,Female,60-64,645,16.75,10.80375
+2,Victoria,26350,Stonnington,Female,60-64,2737,16.75,45.84475
+2,Victoria,26430,Strathbogie,Female,60-64,508,16.75,8.509
+2,Victoria,26490,Surf Coast,Female,60-64,1318,16.75,22.0765
+2,Victoria,26610,Swan Hill,Female,60-64,671,16.75,11.23925
+2,Victoria,26670,Towong,Female,60-64,276,16.75,4.623
+2,Victoria,26700,Wangaratta,Female,60-64,1023,16.75,17.13525
+2,Victoria,26730,Warrnambool,Female,60-64,1233,16.75,20.65275
+2,Victoria,26810,Wellington,Female,60-64,1755,16.75,29.39625
+2,Victoria,26890,West Wimmera,Female,60-64,158,16.75,2.6465
+2,Victoria,26980,Whitehorse,Female,60-64,4945,16.75,82.82875
+2,Victoria,27070,Whittlesea,Female,60-64,6156,16.75,103.113
+2,Victoria,27170,Wodonga,Female,60-64,1332,16.75,22.311
+2,Victoria,27260,Wyndham,Female,60-64,5987,16.75,100.28225
+2,Victoria,27350,Yarra,Female,60-64,2023,16.75,33.88525
+2,Victoria,27450,Yarra Ranges,Female,60-64,5123,16.75,85.81025
+2,Victoria,27630,Yarriambiack,Female,60-64,276,16.75,4.623
+2,Victoria,20110,Alpine,Male,65-69,583,22.0,12.826
+2,Victoria,20260,Ararat,Male,65-69,440,22.0,9.68
+2,Victoria,20570,Ballarat,Male,65-69,3059,22.0,67.298
+2,Victoria,20660,Banyule,Male,65-69,3110,22.0,68.42
+2,Victoria,20740,Bass Coast,Male,65-69,1954,22.0,42.988
+2,Victoria,20830,Baw Baw,Male,65-69,1823,22.0,40.106
+2,Victoria,20910,Bayside (Vic.),Male,65-69,2862,22.0,62.964
+2,Victoria,21010,Benalla,Male,65-69,601,22.0,13.222
+2,Victoria,21110,Boroondara,Male,65-69,4044,22.0,88.968
+2,Victoria,21180,Brimbank,Male,65-69,4932,22.0,108.504
+2,Victoria,21270,Buloke,Male,65-69,275,22.0,6.05
+2,Victoria,21370,Campaspe,Male,65-69,1432,22.0,31.504
+2,Victoria,21450,Cardinia,Male,65-69,2440,22.0,53.68
+2,Victoria,21610,Casey,Male,65-69,7702,22.0,169.444
+2,Victoria,21670,Central Goldfields,Male,65-69,569,22.0,12.518
+2,Victoria,21750,Colac Otway,Male,65-69,818,22.0,17.996
+2,Victoria,21830,Corangamite,Male,65-69,570,22.0,12.54
+2,Victoria,21890,Darebin,Male,65-69,2990,22.0,65.78
+2,Victoria,22110,East Gippsland,Male,65-69,2203,22.0,48.466
+2,Victoria,22170,Frankston,Male,65-69,3503,22.0,77.066
+2,Victoria,22250,Gannawarra,Male,65-69,418,22.0,9.196
+2,Victoria,22310,Glen Eira,Male,65-69,3356,22.0,73.832
+2,Victoria,22410,Glenelg,Male,65-69,873,22.0,19.206
+2,Victoria,22490,Golden Plains,Male,65-69,761,22.0,16.742
+2,Victoria,22620,Greater Bendigo,Male,65-69,3498,22.0,76.956
+2,Victoria,22670,Greater Dandenong,Male,65-69,3742,22.0,82.324
+2,Victoria,22750,Greater Geelong,Male,65-69,7660,22.0,168.52
+2,Victoria,22830,Greater Shepparton,Male,65-69,1961,22.0,43.142
+2,Victoria,22910,Hepburn,Male,65-69,742,22.0,16.324
+2,Victoria,22980,Hindmarsh,Male,65-69,231,22.0,5.082
+2,Victoria,23110,Hobsons Bay,Male,65-69,2300,22.0,50.6
+2,Victoria,23190,Horsham,Male,65-69,626,22.0,13.772
+2,Victoria,23270,Hume,Male,65-69,4986,22.0,109.692
+2,Victoria,23350,Indigo,Male,65-69,664,22.0,14.608
+2,Victoria,23430,Kingston (Vic.),Male,65-69,4006,22.0,88.132
+2,Victoria,23670,Knox,Male,65-69,4190,22.0,92.18
+2,Victoria,23810,Latrobe (Vic.),Male,65-69,2438,22.0,53.636
+2,Victoria,23940,Loddon,Male,65-69,406,22.0,8.932
+2,Victoria,24130,Macedon Ranges,Male,65-69,1599,22.0,35.178
+2,Victoria,24210,Manningham,Male,65-69,3292,22.0,72.424
+2,Victoria,24250,Mansfield,Male,65-69,483,22.0,10.626
+2,Victoria,24330,Maribyrnong,Male,65-69,1609,22.0,35.398
+2,Victoria,24410,Maroondah,Male,65-69,2810,22.0,61.82
+2,Victoria,24600,Melbourne,Male,65-69,1724,22.0,37.928
+2,Victoria,24650,Melton,Male,65-69,3195,22.0,70.29
+2,Victoria,24700,Merri-bek,Male,65-69,2979,22.0,65.538
+2,Victoria,24780,Mildura,Male,65-69,1688,22.0,37.136
+2,Victoria,24850,Mitchell,Male,65-69,1362,22.0,29.964
+2,Victoria,24900,Moira,Male,65-69,1187,22.0,26.114
+2,Victoria,24970,Monash,Male,65-69,4039,22.0,88.858
+2,Victoria,25060,Moonee Valley,Male,65-69,2891,22.0,63.602
+2,Victoria,25150,Moorabool,Male,65-69,981,22.0,21.582
+2,Victoria,25340,Mornington Peninsula,Male,65-69,5656,22.0,124.432
+2,Victoria,25430,Mount Alexander,Male,65-69,893,22.0,19.646
+2,Victoria,25490,Moyne,Male,65-69,607,22.0,13.354
+2,Victoria,25620,Murrindindi,Male,65-69,728,22.0,16.016
+2,Victoria,25710,Nillumbik,Male,65-69,1972,22.0,43.384
+2,Victoria,25810,Northern Grampians,Male,65-69,490,22.0,10.78
+2,Victoria,25900,Port Phillip,Male,65-69,2414,22.0,53.108
+2,Victoria,25990,Pyrenees,Male,65-69,344,22.0,7.568
+2,Victoria,26080,Queenscliffe,Male,65-69,176,22.0,3.872
+2,Victoria,26170,South Gippsland,Male,65-69,1220,22.0,26.84
+2,Victoria,26260,Southern Grampians,Male,65-69,596,22.0,13.112
+2,Victoria,26350,Stonnington,Male,65-69,2097,22.0,46.134
+2,Victoria,26430,Strathbogie,Male,65-69,552,22.0,12.144
+2,Victoria,26490,Surf Coast,Male,65-69,1309,22.0,28.798
+2,Victoria,26610,Swan Hill,Male,65-69,640,22.0,14.08
+2,Victoria,26670,Towong,Male,65-69,290,22.0,6.38
+2,Victoria,26700,Wangaratta,Male,65-69,1001,22.0,22.022
+2,Victoria,26730,Warrnambool,Male,65-69,1015,22.0,22.33
+2,Victoria,26810,Wellington,Male,65-69,1773,22.0,39.006
+2,Victoria,26890,West Wimmera,Male,65-69,182,22.0,4.004
+2,Victoria,26980,Whitehorse,Male,65-69,3935,22.0,86.57
+2,Victoria,27070,Whittlesea,Male,65-69,4703,22.0,103.466
+2,Victoria,27170,Wodonga,Male,65-69,1089,22.0,23.958
+2,Victoria,27260,Wyndham,Male,65-69,4424,22.0,97.328
+2,Victoria,27350,Yarra,Male,65-69,1654,22.0,36.388
+2,Victoria,27450,Yarra Ranges,Male,65-69,4263,22.0,93.786
+2,Victoria,27630,Yarriambiack,Male,65-69,302,22.0,6.644
+2,Victoria,20110,Alpine,Female,65-69,509,27.35,13.92115
+2,Victoria,20260,Ararat,Female,65-69,414,27.35,11.3229
+2,Victoria,20570,Ballarat,Female,65-69,3499,27.35,95.69765000000001
+2,Victoria,20660,Banyule,Female,65-69,3668,27.35,100.3198
+2,Victoria,20740,Bass Coast,Female,65-69,2170,27.35,59.3495
+2,Victoria,20830,Baw Baw,Female,65-69,2077,27.35,56.80595
+2,Victoria,20910,Bayside (Vic.),Female,65-69,3262,27.35,89.21570000000001
+2,Victoria,21010,Benalla,Female,65-69,618,27.35,16.9023
+2,Victoria,21110,Boroondara,Female,65-69,4662,27.35,127.50570000000002
+2,Victoria,21180,Brimbank,Female,65-69,5489,27.35,150.12415
+2,Victoria,21270,Buloke,Female,65-69,254,27.35,6.9469
+2,Victoria,21370,Campaspe,Female,65-69,1346,27.35,36.8131
+2,Victoria,21450,Cardinia,Female,65-69,2693,27.35,73.65355000000001
+2,Victoria,21610,Casey,Female,65-69,8012,27.35,219.12820000000002
+2,Victoria,21670,Central Goldfields,Female,65-69,574,27.35,15.698900000000002
+2,Victoria,21750,Colac Otway,Female,65-69,747,27.35,20.43045
+2,Victoria,21830,Corangamite,Female,65-69,619,27.35,16.929650000000002
+2,Victoria,21890,Darebin,Female,65-69,3270,27.35,89.4345
+2,Victoria,22110,East Gippsland,Female,65-69,2253,27.35,61.619550000000004
+2,Victoria,22170,Frankston,Female,65-69,3879,27.35,106.09065000000001
+2,Victoria,22250,Gannawarra,Female,65-69,452,27.35,12.362200000000001
+2,Victoria,22310,Glen Eira,Female,65-69,3616,27.35,98.89760000000001
+2,Victoria,22410,Glenelg,Female,65-69,815,27.35,22.29025
+2,Victoria,22490,Golden Plains,Female,65-69,768,27.35,21.004800000000003
+2,Victoria,22620,Greater Bendigo,Female,65-69,3947,27.35,107.95045000000002
+2,Victoria,22670,Greater Dandenong,Female,65-69,4088,27.35,111.80680000000001
+2,Victoria,22750,Greater Geelong,Female,65-69,8910,27.35,243.6885
+2,Victoria,22830,Greater Shepparton,Female,65-69,1996,27.35,54.59060000000001
+2,Victoria,22910,Hepburn,Female,65-69,806,27.35,22.044100000000004
+2,Victoria,22980,Hindmarsh,Female,65-69,209,27.35,5.716150000000001
+2,Victoria,23110,Hobsons Bay,Female,65-69,2495,27.35,68.23825
+2,Victoria,23190,Horsham,Female,65-69,663,27.35,18.13305
+2,Victoria,23270,Hume,Female,65-69,5404,27.35,147.7994
+2,Victoria,23350,Indigo,Female,65-69,730,27.35,19.9655
+2,Victoria,23430,Kingston (Vic.),Female,65-69,4654,27.35,127.2869
+2,Victoria,23670,Knox,Female,65-69,4654,27.35,127.2869
+2,Victoria,23810,Latrobe (Vic.),Female,65-69,2715,27.35,74.25525
+2,Victoria,23940,Loddon,Female,65-69,310,27.35,8.4785
+2,Victoria,24130,Macedon Ranges,Female,65-69,1681,27.35,45.975350000000006
+2,Victoria,24210,Manningham,Female,65-69,3844,27.35,105.13340000000001
+2,Victoria,24250,Mansfield,Female,65-69,476,27.35,13.018600000000001
+2,Victoria,24330,Maribyrnong,Female,65-69,1836,27.35,50.214600000000004
+2,Victoria,24410,Maroondah,Female,65-69,3183,27.35,87.05505000000001
+2,Victoria,24600,Melbourne,Female,65-69,1803,27.35,49.312050000000006
+2,Victoria,24650,Melton,Female,65-69,3753,27.35,102.64455000000001
+2,Victoria,24700,Merri-bek,Female,65-69,3441,27.35,94.11135
+2,Victoria,24780,Mildura,Female,65-69,1714,27.35,46.877900000000004
+2,Victoria,24850,Mitchell,Female,65-69,1414,27.35,38.6729
+2,Victoria,24900,Moira,Female,65-69,1144,27.35,31.288400000000003
+2,Victoria,24970,Monash,Female,65-69,4698,27.35,128.4903
+2,Victoria,25060,Moonee Valley,Female,65-69,3318,27.35,90.74730000000001
+2,Victoria,25150,Moorabool,Female,65-69,1116,27.35,30.5226
+2,Victoria,25340,Mornington Peninsula,Female,65-69,6661,27.35,182.17835
+2,Victoria,25430,Mount Alexander,Female,65-69,911,27.35,24.915850000000002
+2,Victoria,25490,Moyne,Female,65-69,620,27.35,16.957
+2,Victoria,25620,Murrindindi,Female,65-69,683,27.35,18.680049999999998
+2,Victoria,25710,Nillumbik,Female,65-69,2038,27.35,55.7393
+2,Victoria,25810,Northern Grampians,Female,65-69,441,27.35,12.061350000000001
+2,Victoria,25900,Port Phillip,Female,65-69,2420,27.35,66.187
+2,Victoria,25990,Pyrenees,Female,65-69,315,27.35,8.61525
+2,Victoria,26080,Queenscliffe,Female,65-69,198,27.35,5.4153
+2,Victoria,26170,South Gippsland,Female,65-69,1342,27.35,36.703700000000005
+2,Victoria,26260,Southern Grampians,Female,65-69,616,27.35,16.847600000000003
+2,Victoria,26350,Stonnington,Female,65-69,2491,27.35,68.12885
+2,Victoria,26430,Strathbogie,Female,65-69,572,27.35,15.644200000000001
+2,Victoria,26490,Surf Coast,Female,65-69,1397,27.35,38.207950000000004
+2,Victoria,26610,Swan Hill,Female,65-69,571,27.35,15.616850000000001
+2,Victoria,26670,Towong,Female,65-69,239,27.35,6.536650000000001
+2,Victoria,26700,Wangaratta,Female,65-69,1107,27.35,30.27645
+2,Victoria,26730,Warrnambool,Female,65-69,1227,27.35,33.55845000000001
+2,Victoria,26810,Wellington,Female,65-69,1797,27.35,49.14795
+2,Victoria,26890,West Wimmera,Female,65-69,147,27.35,4.02045
+2,Victoria,26980,Whitehorse,Female,65-69,4458,27.35,121.9263
+2,Victoria,27070,Whittlesea,Female,65-69,5449,27.35,149.03015
+2,Victoria,27170,Wodonga,Female,65-69,1254,27.35,34.2969
+2,Victoria,27260,Wyndham,Female,65-69,5104,27.35,139.5944
+2,Victoria,27350,Yarra,Female,65-69,1865,27.35,51.00775
+2,Victoria,27450,Yarra Ranges,Female,65-69,4618,27.35,126.3023
+2,Victoria,27630,Yarriambiack,Female,65-69,276,27.35,7.5486
+2,Victoria,20110,Alpine,Male,70-74,482,35.8,17.255599999999998
+2,Victoria,20260,Ararat,Male,70-74,413,35.8,14.7854
+2,Victoria,20570,Ballarat,Male,70-74,2669,35.8,95.5502
+2,Victoria,20660,Banyule,Male,70-74,2646,35.8,94.72679999999998
+2,Victoria,20740,Bass Coast,Male,70-74,1896,35.8,67.87679999999999
+2,Victoria,20830,Baw Baw,Male,70-74,1728,35.8,61.862399999999994
+2,Victoria,20910,Bayside (Vic.),Male,70-74,2461,35.8,88.10379999999999
+2,Victoria,21010,Benalla,Male,70-74,562,35.8,20.1196
+2,Victoria,21110,Boroondara,Male,70-74,3447,35.8,123.40259999999999
+2,Victoria,21180,Brimbank,Male,70-74,4127,35.8,147.74659999999997
+2,Victoria,21270,Buloke,Male,70-74,245,35.8,8.771
+2,Victoria,21370,Campaspe,Male,70-74,1254,35.8,44.8932
+2,Victoria,21450,Cardinia,Male,70-74,2064,35.8,73.8912
+2,Victoria,21610,Casey,Male,70-74,5490,35.8,196.54199999999997
+2,Victoria,21670,Central Goldfields,Male,70-74,554,35.8,19.833199999999998
+2,Victoria,21750,Colac Otway,Male,70-74,713,35.8,25.525399999999998
+2,Victoria,21830,Corangamite,Male,70-74,574,35.8,20.549199999999995
+2,Victoria,21890,Darebin,Male,70-74,2250,35.8,80.55
+2,Victoria,22110,East Gippsland,Male,70-74,2084,35.8,74.60719999999999
+2,Victoria,22170,Frankston,Male,70-74,2733,35.8,97.8414
+2,Victoria,22250,Gannawarra,Male,70-74,462,35.8,16.5396
+2,Victoria,22310,Glen Eira,Male,70-74,2799,35.8,100.2042
+2,Victoria,22410,Glenelg,Male,70-74,763,35.8,27.315399999999997
+2,Victoria,22490,Golden Plains,Male,70-74,710,35.8,25.417999999999996
+2,Victoria,22620,Greater Bendigo,Male,70-74,3185,35.8,114.02299999999998
+2,Victoria,22670,Greater Dandenong,Male,70-74,3012,35.8,107.82959999999999
+2,Victoria,22750,Greater Geelong,Male,70-74,6827,35.8,244.40659999999997
+2,Victoria,22830,Greater Shepparton,Male,70-74,1626,35.8,58.2108
+2,Victoria,22910,Hepburn,Male,70-74,682,35.8,24.415599999999998
+2,Victoria,22980,Hindmarsh,Male,70-74,190,35.8,6.801999999999999
+2,Victoria,23110,Hobsons Bay,Male,70-74,1809,35.8,64.76219999999999
+2,Victoria,23190,Horsham,Male,70-74,512,35.8,18.3296
+2,Victoria,23270,Hume,Male,70-74,3690,35.8,132.102
+2,Victoria,23350,Indigo,Male,70-74,619,35.8,22.160199999999996
+2,Victoria,23430,Kingston (Vic.),Male,70-74,3324,35.8,118.9992
+2,Victoria,23670,Knox,Male,70-74,3497,35.8,125.19259999999998
+2,Victoria,23810,Latrobe (Vic.),Male,70-74,2212,35.8,79.18959999999998
+2,Victoria,23940,Loddon,Male,70-74,321,35.8,11.4918
+2,Victoria,24130,Macedon Ranges,Male,70-74,1399,35.8,50.084199999999996
+2,Victoria,24210,Manningham,Male,70-74,2730,35.8,97.73399999999998
+2,Victoria,24250,Mansfield,Male,70-74,412,35.8,14.7496
+2,Victoria,24330,Maribyrnong,Male,70-74,1228,35.8,43.962399999999995
+2,Victoria,24410,Maroondah,Male,70-74,2281,35.8,81.65979999999999
+2,Victoria,24600,Melbourne,Male,70-74,1416,35.8,50.6928
+2,Victoria,24650,Melton,Male,70-74,2723,35.8,97.48339999999999
+2,Victoria,24700,Merri-bek,Male,70-74,2171,35.8,77.72179999999999
+2,Victoria,24780,Mildura,Male,70-74,1347,35.8,48.2226
+2,Victoria,24850,Mitchell,Male,70-74,1118,35.8,40.02439999999999
+2,Victoria,24900,Moira,Male,70-74,1142,35.8,40.8836
+2,Victoria,24970,Monash,Male,70-74,3372,35.8,120.71759999999999
+2,Victoria,25060,Moonee Valley,Male,70-74,2391,35.8,85.59779999999999
+2,Victoria,25150,Moorabool,Male,70-74,929,35.8,33.258199999999995
+2,Victoria,25340,Mornington Peninsula,Male,70-74,5433,35.8,194.5014
+2,Victoria,25430,Mount Alexander,Male,70-74,835,35.8,29.892999999999997
+2,Victoria,25490,Moyne,Male,70-74,608,35.8,21.766399999999997
+2,Victoria,25620,Murrindindi,Male,70-74,594,35.8,21.265199999999997
+2,Victoria,25710,Nillumbik,Male,70-74,1491,35.8,53.37779999999999
+2,Victoria,25810,Northern Grampians,Male,70-74,417,35.8,14.9286
+2,Victoria,25900,Port Phillip,Male,70-74,1927,35.8,68.9866
+2,Victoria,25990,Pyrenees,Male,70-74,344,35.8,12.315199999999999
+2,Victoria,26080,Queenscliffe,Male,70-74,191,35.8,6.8378
+2,Victoria,26170,South Gippsland,Male,70-74,1154,35.8,41.313199999999995
+2,Victoria,26260,Southern Grampians,Male,70-74,558,35.8,19.976399999999998
+2,Victoria,26350,Stonnington,Male,70-74,1857,35.8,66.4806
+2,Victoria,26430,Strathbogie,Male,70-74,563,35.8,20.155399999999997
+2,Victoria,26490,Surf Coast,Male,70-74,1181,35.8,42.279799999999994
+2,Victoria,26610,Swan Hill,Male,70-74,513,35.8,18.365399999999998
+2,Victoria,26670,Towong,Male,70-74,249,35.8,8.9142
+2,Victoria,26700,Wangaratta,Male,70-74,895,35.8,32.041
+2,Victoria,26730,Warrnambool,Male,70-74,920,35.8,32.936
+2,Victoria,26810,Wellington,Male,70-74,1583,35.8,56.67139999999999
+2,Victoria,26890,West Wimmera,Male,70-74,145,35.8,5.191
+2,Victoria,26980,Whitehorse,Male,70-74,3325,35.8,119.03499999999998
+2,Victoria,27070,Whittlesea,Male,70-74,3854,35.8,137.9732
+2,Victoria,27170,Wodonga,Male,70-74,1045,35.8,37.411
+2,Victoria,27260,Wyndham,Male,70-74,3470,35.8,124.22599999999998
+2,Victoria,27350,Yarra,Male,70-74,1320,35.8,47.25599999999999
+2,Victoria,27450,Yarra Ranges,Male,70-74,3609,35.8,129.20219999999998
+2,Victoria,27630,Yarriambiack,Male,70-74,236,35.8,8.448799999999999
+2,Victoria,20110,Alpine,Female,70-74,436,45.65,19.903399999999998
+2,Victoria,20260,Ararat,Female,70-74,351,45.65,16.02315
+2,Victoria,20570,Ballarat,Female,70-74,3248,45.65,148.2712
+2,Victoria,20660,Banyule,Female,70-74,3219,45.65,146.94735
+2,Victoria,20740,Bass Coast,Female,70-74,1948,45.65,88.9262
+2,Victoria,20830,Baw Baw,Female,70-74,1874,45.65,85.54809999999999
+2,Victoria,20910,Bayside (Vic.),Female,70-74,2961,45.65,135.16965
+2,Victoria,21010,Benalla,Female,70-74,604,45.65,27.572599999999998
+2,Victoria,21110,Boroondara,Female,70-74,4096,45.65,186.98239999999998
+2,Victoria,21180,Brimbank,Female,70-74,4564,45.65,208.3466
+2,Victoria,21270,Buloke,Female,70-74,179,45.65,8.17135
+2,Victoria,21370,Campaspe,Female,70-74,1254,45.65,57.2451
+2,Victoria,21450,Cardinia,Female,70-74,2278,45.65,103.9907
+2,Victoria,21610,Casey,Female,70-74,6233,45.65,284.53645
+2,Victoria,21670,Central Goldfields,Female,70-74,565,45.65,25.79225
+2,Victoria,21750,Colac Otway,Female,70-74,743,45.65,33.91795
+2,Victoria,21830,Corangamite,Female,70-74,491,45.65,22.41415
+2,Victoria,21890,Darebin,Female,70-74,2665,45.65,121.65725
+2,Victoria,22110,East Gippsland,Female,70-74,2146,45.65,97.9649
+2,Victoria,22170,Frankston,Female,70-74,3229,45.65,147.40385
+2,Victoria,22250,Gannawarra,Female,70-74,379,45.65,17.30135
+2,Victoria,22310,Glen Eira,Female,70-74,3361,45.65,153.42964999999998
+2,Victoria,22410,Glenelg,Female,70-74,763,45.65,34.830949999999994
+2,Victoria,22490,Golden Plains,Female,70-74,595,45.65,27.16175
+2,Victoria,22620,Greater Bendigo,Female,70-74,3494,45.65,159.5011
+2,Victoria,22670,Greater Dandenong,Female,70-74,3446,45.65,157.3099
+2,Victoria,22750,Greater Geelong,Female,70-74,8008,45.65,365.5652
+2,Victoria,22830,Greater Shepparton,Female,70-74,1781,45.65,81.30265
+2,Victoria,22910,Hepburn,Female,70-74,775,45.65,35.37875
+2,Victoria,22980,Hindmarsh,Female,70-74,186,45.65,8.4909
+2,Victoria,23110,Hobsons Bay,Female,70-74,2089,45.65,95.36285
+2,Victoria,23190,Horsham,Female,70-74,555,45.65,25.33575
+2,Victoria,23270,Hume,Female,70-74,4273,45.65,195.06244999999998
+2,Victoria,23350,Indigo,Female,70-74,563,45.65,25.700950000000002
+2,Victoria,23430,Kingston (Vic.),Female,70-74,3954,45.65,180.5001
+2,Victoria,23670,Knox,Female,70-74,4166,45.65,190.1779
+2,Victoria,23810,Latrobe (Vic.),Female,70-74,2304,45.65,105.1776
+2,Victoria,23940,Loddon,Female,70-74,302,45.65,13.786299999999999
+2,Victoria,24130,Macedon Ranges,Female,70-74,1521,45.65,69.43365
+2,Victoria,24210,Manningham,Female,70-74,3377,45.65,154.16004999999998
+2,Victoria,24250,Mansfield,Female,70-74,400,45.65,18.26
+2,Victoria,24330,Maribyrnong,Female,70-74,1395,45.65,63.68175
+2,Victoria,24410,Maroondah,Female,70-74,2866,45.65,130.8329
+2,Victoria,24600,Melbourne,Female,70-74,1618,45.65,73.8617
+2,Victoria,24650,Melton,Female,70-74,3056,45.65,139.50639999999999
+2,Victoria,24700,Merri-bek,Female,70-74,2721,45.65,124.21365
+2,Victoria,24780,Mildura,Female,70-74,1467,45.65,66.96855000000001
+2,Victoria,24850,Mitchell,Female,70-74,1085,45.65,49.53025
+2,Victoria,24900,Moira,Female,70-74,1166,45.65,53.2279
+2,Victoria,24970,Monash,Female,70-74,4190,45.65,191.2735
+2,Victoria,25060,Moonee Valley,Female,70-74,2843,45.65,129.78295
+2,Victoria,25150,Moorabool,Female,70-74,973,45.65,44.417449999999995
+2,Victoria,25340,Mornington Peninsula,Female,70-74,6337,45.65,289.28405
+2,Victoria,25430,Mount Alexander,Female,70-74,920,45.65,41.998
+2,Victoria,25490,Moyne,Female,70-74,569,45.65,25.97485
+2,Victoria,25620,Murrindindi,Female,70-74,540,45.65,24.651
+2,Victoria,25710,Nillumbik,Female,70-74,1659,45.65,75.73334999999999
+2,Victoria,25810,Northern Grampians,Female,70-74,403,45.65,18.39695
+2,Victoria,25900,Port Phillip,Female,70-74,1953,45.65,89.15445
+2,Victoria,25990,Pyrenees,Female,70-74,288,45.65,13.1472
+2,Victoria,26080,Queenscliffe,Female,70-74,212,45.65,9.6778
+2,Victoria,26170,South Gippsland,Female,70-74,1139,45.65,51.99535
+2,Victoria,26260,Southern Grampians,Female,70-74,594,45.65,27.1161
+2,Victoria,26350,Stonnington,Female,70-74,2269,45.65,103.57985
+2,Victoria,26430,Strathbogie,Female,70-74,530,45.65,24.1945
+2,Victoria,26490,Surf Coast,Female,70-74,1162,45.65,53.0453
+2,Victoria,26610,Swan Hill,Female,70-74,516,45.65,23.5554
+2,Victoria,26670,Towong,Female,70-74,251,45.65,11.45815
+2,Victoria,26700,Wangaratta,Female,70-74,908,45.65,41.450199999999995
+2,Victoria,26730,Warrnambool,Female,70-74,1061,45.65,48.434650000000005
+2,Victoria,26810,Wellington,Female,70-74,1552,45.65,70.8488
+2,Victoria,26890,West Wimmera,Female,70-74,121,45.65,5.52365
+2,Victoria,26980,Whitehorse,Female,70-74,4089,45.65,186.66285
+2,Victoria,27070,Whittlesea,Female,70-74,4578,45.65,208.98569999999998
+2,Victoria,27170,Wodonga,Female,70-74,1177,45.65,53.73005
+2,Victoria,27260,Wyndham,Female,70-74,3828,45.65,174.74819999999997
+2,Victoria,27350,Yarra,Female,70-74,1519,45.65,69.34235
+2,Victoria,27450,Yarra Ranges,Female,70-74,4050,45.65,184.8825
+2,Victoria,27630,Yarriambiack,Female,70-74,233,45.65,10.636449999999998
+2,Victoria,20110,Alpine,Male,75-79,395,61.29,24.20955
+2,Victoria,20260,Ararat,Male,75-79,339,61.29,20.77731
+2,Victoria,20570,Ballarat,Male,75-79,2279,61.29,139.67991
+2,Victoria,20660,Banyule,Male,75-79,2440,61.29,149.54760000000002
+2,Victoria,20740,Bass Coast,Male,75-79,1497,61.29,91.75113
+2,Victoria,20830,Baw Baw,Male,75-79,1499,61.29,91.87370999999999
+2,Victoria,20910,Bayside (Vic.),Male,75-79,2339,61.29,143.35730999999998
+2,Victoria,21010,Benalla,Male,75-79,517,61.29,31.68693
+2,Victoria,21110,Boroondara,Male,75-79,3036,61.29,186.07644
+2,Victoria,21180,Brimbank,Male,75-79,3297,61.29,202.07313
+2,Victoria,21270,Buloke,Male,75-79,184,61.29,11.27736
+2,Victoria,21370,Campaspe,Male,75-79,995,61.29,60.983549999999994
+2,Victoria,21450,Cardinia,Male,75-79,1581,61.29,96.89949
+2,Victoria,21610,Casey,Male,75-79,4271,61.29,261.76959
+2,Victoria,21670,Central Goldfields,Male,75-79,463,61.29,28.37727
+2,Victoria,21750,Colac Otway,Male,75-79,612,61.29,37.509479999999996
+2,Victoria,21830,Corangamite,Male,75-79,450,61.29,27.5805
+2,Victoria,21890,Darebin,Male,75-79,1900,61.29,116.451
+2,Victoria,22110,East Gippsland,Male,75-79,1942,61.29,119.02517999999999
+2,Victoria,22170,Frankston,Male,75-79,2325,61.29,142.49925
+2,Victoria,22250,Gannawarra,Male,75-79,353,61.29,21.635369999999998
+2,Victoria,22310,Glen Eira,Male,75-79,2542,61.29,155.79918
+2,Victoria,22410,Glenelg,Male,75-79,577,61.29,35.36433
+2,Victoria,22490,Golden Plains,Male,75-79,502,61.29,30.76758
+2,Victoria,22620,Greater Bendigo,Male,75-79,2592,61.29,158.86368
+2,Victoria,22670,Greater Dandenong,Male,75-79,2595,61.29,159.04755
+2,Victoria,22750,Greater Geelong,Male,75-79,5755,61.29,352.72395
+2,Victoria,22830,Greater Shepparton,Male,75-79,1445,61.29,88.56405000000001
+2,Victoria,22910,Hepburn,Male,75-79,595,61.29,36.46755
+2,Victoria,22980,Hindmarsh,Male,75-79,168,61.29,10.296719999999999
+2,Victoria,23110,Hobsons Bay,Male,75-79,1407,61.29,86.23503
+2,Victoria,23190,Horsham,Male,75-79,449,61.29,27.519209999999998
+2,Victoria,23270,Hume,Male,75-79,2918,61.29,178.84422
+2,Victoria,23350,Indigo,Male,75-79,478,61.29,29.296619999999997
+2,Victoria,23430,Kingston (Vic.),Male,75-79,2804,61.29,171.85716
+2,Victoria,23670,Knox,Male,75-79,2897,61.29,177.55713
+2,Victoria,23810,Latrobe (Vic.),Male,75-79,1700,61.29,104.193
+2,Victoria,23940,Loddon,Male,75-79,280,61.29,17.1612
+2,Victoria,24130,Macedon Ranges,Male,75-79,1248,61.29,76.48992
+2,Victoria,24210,Manningham,Male,75-79,2497,61.29,153.04113
+2,Victoria,24250,Mansfield,Male,75-79,345,61.29,21.145049999999998
+2,Victoria,24330,Maribyrnong,Male,75-79,818,61.29,50.135220000000004
+2,Victoria,24410,Maroondah,Male,75-79,1951,61.29,119.57678999999999
+2,Victoria,24600,Melbourne,Male,75-79,1261,61.29,77.28669000000001
+2,Victoria,24650,Melton,Male,75-79,1908,61.29,116.94131999999999
+2,Victoria,24700,Merri-bek,Male,75-79,1808,61.29,110.81231999999999
+2,Victoria,24780,Mildura,Male,75-79,1236,61.29,75.75444
+2,Victoria,24850,Mitchell,Male,75-79,895,61.29,54.854549999999996
+2,Victoria,24900,Moira,Male,75-79,995,61.29,60.983549999999994
+2,Victoria,24970,Monash,Male,75-79,3024,61.29,185.34096
+2,Victoria,25060,Moonee Valley,Male,75-79,2021,61.29,123.86708999999999
+2,Victoria,25150,Moorabool,Male,75-79,796,61.29,48.78684
+2,Victoria,25340,Mornington Peninsula,Male,75-79,5229,61.29,320.48541
+2,Victoria,25430,Mount Alexander,Male,75-79,646,61.29,39.59334
+2,Victoria,25490,Moyne,Male,75-79,455,61.29,27.886950000000002
+2,Victoria,25620,Murrindindi,Male,75-79,502,61.29,30.76758
+2,Victoria,25710,Nillumbik,Male,75-79,1197,61.29,73.36413
+2,Victoria,25810,Northern Grampians,Male,75-79,347,61.29,21.26763
+2,Victoria,25900,Port Phillip,Male,75-79,1551,61.29,95.06079
+2,Victoria,25990,Pyrenees,Male,75-79,297,61.29,18.20313
+2,Victoria,26080,Queenscliffe,Male,75-79,171,61.29,10.48059
+2,Victoria,26170,South Gippsland,Male,75-79,967,61.29,59.26743
+2,Victoria,26260,Southern Grampians,Male,75-79,481,61.29,29.48049
+2,Victoria,26350,Stonnington,Male,75-79,1835,61.29,112.46714999999999
+2,Victoria,26430,Strathbogie,Male,75-79,449,61.29,27.519209999999998
+2,Victoria,26490,Surf Coast,Male,75-79,921,61.29,56.44808999999999
+2,Victoria,26610,Swan Hill,Male,75-79,395,61.29,24.20955
+2,Victoria,26670,Towong,Male,75-79,194,61.29,11.89026
+2,Victoria,26700,Wangaratta,Male,75-79,797,61.29,48.84813
+2,Victoria,26730,Warrnambool,Male,75-79,772,61.29,47.31588
+2,Victoria,26810,Wellington,Male,75-79,1334,61.29,81.76086
+2,Victoria,26890,West Wimmera,Male,75-79,113,61.29,6.925769999999999
+2,Victoria,26980,Whitehorse,Male,75-79,2907,61.29,178.17003
+2,Victoria,27070,Whittlesea,Male,75-79,3192,61.29,195.63768
+2,Victoria,27170,Wodonga,Male,75-79,878,61.29,53.81262
+2,Victoria,27260,Wyndham,Male,75-79,2530,61.29,155.0637
+2,Victoria,27350,Yarra,Male,75-79,1091,61.29,66.86739
+2,Victoria,27450,Yarra Ranges,Male,75-79,3041,61.29,186.38288999999997
+2,Victoria,27630,Yarriambiack,Male,75-79,195,61.29,11.95155
+2,Victoria,20110,Alpine,Female,75-79,425,79.27,33.68975
+2,Victoria,20260,Ararat,Female,75-79,315,79.27,24.97005
+2,Victoria,20570,Ballarat,Female,75-79,2744,79.27,217.51688
+2,Victoria,20660,Banyule,Female,75-79,2930,79.27,232.26109999999997
+2,Victoria,20740,Bass Coast,Female,75-79,1550,79.27,122.8685
+2,Victoria,20830,Baw Baw,Female,75-79,1559,79.27,123.58193
+2,Victoria,20910,Bayside (Vic.),Female,75-79,2731,79.27,216.48637
+2,Victoria,21010,Benalla,Female,75-79,471,79.27,37.336169999999996
+2,Victoria,21110,Boroondara,Female,75-79,3788,79.27,300.27476
+2,Victoria,21180,Brimbank,Female,75-79,3726,79.27,295.36001999999996
+2,Victoria,21270,Buloke,Female,75-79,185,79.27,14.66495
+2,Victoria,21370,Campaspe,Female,75-79,1030,79.27,81.64809999999999
+2,Victoria,21450,Cardinia,Female,75-79,2033,79.27,161.15591
+2,Victoria,21610,Casey,Female,75-79,4968,79.27,393.81336
+2,Victoria,21670,Central Goldfields,Female,75-79,488,79.27,38.68375999999999
+2,Victoria,21750,Colac Otway,Female,75-79,623,79.27,49.38521
+2,Victoria,21830,Corangamite,Female,75-79,431,79.27,34.165369999999996
+2,Victoria,21890,Darebin,Female,75-79,2354,79.27,186.60157999999998
+2,Victoria,22110,East Gippsland,Female,75-79,1799,79.27,142.60672999999997
+2,Victoria,22170,Frankston,Female,75-79,2805,79.27,222.35234999999997
+2,Victoria,22250,Gannawarra,Female,75-79,351,79.27,27.823769999999996
+2,Victoria,22310,Glen Eira,Female,75-79,2927,79.27,232.02328999999997
+2,Victoria,22410,Glenelg,Female,75-79,536,79.27,42.48872
+2,Victoria,22490,Golden Plains,Female,75-79,408,79.27,32.34216
+2,Victoria,22620,Greater Bendigo,Female,75-79,2901,79.27,229.96227
+2,Victoria,22670,Greater Dandenong,Female,75-79,2894,79.27,229.40738
+2,Victoria,22750,Greater Geelong,Female,75-79,6881,79.27,545.45687
+2,Victoria,22830,Greater Shepparton,Female,75-79,1547,79.27,122.63068999999999
+2,Victoria,22910,Hepburn,Female,75-79,525,79.27,41.61675
+2,Victoria,22980,Hindmarsh,Female,75-79,146,79.27,11.57342
+2,Victoria,23110,Hobsons Bay,Female,75-79,1751,79.27,138.80176999999998
+2,Victoria,23190,Horsham,Female,75-79,487,79.27,38.60449
+2,Victoria,23270,Hume,Female,75-79,3288,79.27,260.63975999999997
+2,Victoria,23350,Indigo,Female,75-79,504,79.27,39.952079999999995
+2,Victoria,23430,Kingston (Vic.),Female,75-79,3662,79.27,290.28674
+2,Victoria,23670,Knox,Female,75-79,3322,79.27,263.33494
+2,Victoria,23810,Latrobe (Vic.),Female,75-79,1936,79.27,153.46672
+2,Victoria,23940,Loddon,Female,75-79,234,79.27,18.54918
+2,Victoria,24130,Macedon Ranges,Female,75-79,1297,79.27,102.81318999999999
+2,Victoria,24210,Manningham,Female,75-79,3252,79.27,257.78603999999996
+2,Victoria,24250,Mansfield,Female,75-79,287,79.27,22.75049
+2,Victoria,24330,Maribyrnong,Female,75-79,983,79.27,77.92240999999999
+2,Victoria,24410,Maroondah,Female,75-79,2532,79.27,200.71164
+2,Victoria,24600,Melbourne,Female,75-79,1367,79.27,108.36209
+2,Victoria,24650,Melton,Female,75-79,2191,79.27,173.68057
+2,Victoria,24700,Merri-bek,Female,75-79,2381,79.27,188.74187
+2,Victoria,24780,Mildura,Female,75-79,1244,79.27,98.61187999999999
+2,Victoria,24850,Mitchell,Female,75-79,921,79.27,73.00767
+2,Victoria,24900,Moira,Female,75-79,1009,79.27,79.98343
+2,Victoria,24970,Monash,Female,75-79,3797,79.27,300.98819
+2,Victoria,25060,Moonee Valley,Female,75-79,2483,79.27,196.82741000000001
+2,Victoria,25150,Moorabool,Female,75-79,794,79.27,62.94038
+2,Victoria,25340,Mornington Peninsula,Female,75-79,6044,79.27,479.10788
+2,Victoria,25430,Mount Alexander,Female,75-79,688,79.27,54.53775999999999
+2,Victoria,25490,Moyne,Female,75-79,437,79.27,34.640989999999995
+2,Victoria,25620,Murrindindi,Female,75-79,469,79.27,37.17763
+2,Victoria,25710,Nillumbik,Female,75-79,1219,79.27,96.63013
+2,Victoria,25810,Northern Grampians,Female,75-79,363,79.27,28.775009999999998
+2,Victoria,25900,Port Phillip,Female,75-79,1714,79.27,135.86878
+2,Victoria,25990,Pyrenees,Female,75-79,222,79.27,17.597939999999998
+2,Victoria,26080,Queenscliffe,Female,75-79,184,79.27,14.585679999999998
+2,Victoria,26170,South Gippsland,Female,75-79,993,79.27,78.71511
+2,Victoria,26260,Southern Grampians,Female,75-79,499,79.27,39.55573
+2,Victoria,26350,Stonnington,Female,75-79,2289,79.27,181.44903
+2,Victoria,26430,Strathbogie,Female,75-79,405,79.27,32.10435
+2,Victoria,26490,Surf Coast,Female,75-79,919,79.27,72.84912999999999
+2,Victoria,26610,Swan Hill,Female,75-79,440,79.27,34.8788
+2,Victoria,26670,Towong,Female,75-79,188,79.27,14.902759999999999
+2,Victoria,26700,Wangaratta,Female,75-79,844,79.27,66.90387999999999
+2,Victoria,26730,Warrnambool,Female,75-79,916,79.27,72.61131999999999
+2,Victoria,26810,Wellington,Female,75-79,1207,79.27,95.67889
+2,Victoria,26890,West Wimmera,Female,75-79,106,79.27,8.402619999999999
+2,Victoria,26980,Whitehorse,Female,75-79,3533,79.27,280.06091
+2,Victoria,27070,Whittlesea,Female,75-79,3754,79.27,297.57957999999996
+2,Victoria,27170,Wodonga,Female,75-79,962,79.27,76.25773999999998
+2,Victoria,27260,Wyndham,Female,75-79,2803,79.27,222.19380999999998
+2,Victoria,27350,Yarra,Female,75-79,1387,79.27,109.94748999999999
+2,Victoria,27450,Yarra Ranges,Female,75-79,3492,79.27,276.81084
+2,Victoria,27630,Yarriambiack,Female,75-79,190,79.27,15.0613
+2,Victoria,20110,Alpine,Male,80-84,211,104.28,22.00308
+2,Victoria,20260,Ararat,Male,80-84,191,104.28,19.91748
+2,Victoria,20570,Ballarat,Male,80-84,1404,104.28,146.40912
+2,Victoria,20660,Banyule,Male,80-84,1635,104.28,170.49779999999998
+2,Victoria,20740,Bass Coast,Male,80-84,873,104.28,91.03644
+2,Victoria,20830,Baw Baw,Male,80-84,901,104.28,93.95627999999999
+2,Victoria,20910,Bayside (Vic.),Male,80-84,1547,104.28,161.32116
+2,Victoria,21010,Benalla,Male,80-84,268,104.28,27.94704
+2,Victoria,21110,Boroondara,Male,80-84,1985,104.28,206.99579999999997
+2,Victoria,21180,Brimbank,Male,80-84,2145,104.28,223.6806
+2,Victoria,21270,Buloke,Male,80-84,105,104.28,10.949399999999999
+2,Victoria,21370,Campaspe,Male,80-84,690,104.28,71.9532
+2,Victoria,21450,Cardinia,Male,80-84,1156,104.28,120.54768000000001
+2,Victoria,21610,Casey,Male,80-84,2535,104.28,264.3498
+2,Victoria,21670,Central Goldfields,Male,80-84,312,104.28,32.53536
+2,Victoria,21750,Colac Otway,Male,80-84,384,104.28,40.04352
+2,Victoria,21830,Corangamite,Male,80-84,272,104.28,28.36416
+2,Victoria,21890,Darebin,Male,80-84,1405,104.28,146.5134
+2,Victoria,22110,East Gippsland,Male,80-84,1123,104.28,117.10644
+2,Victoria,22170,Frankston,Male,80-84,1490,104.28,155.37720000000002
+2,Victoria,22250,Gannawarra,Male,80-84,243,104.28,25.340040000000002
+2,Victoria,22310,Glen Eira,Male,80-84,1364,104.28,142.23792
+2,Victoria,22410,Glenelg,Male,80-84,362,104.28,37.74936
+2,Victoria,22490,Golden Plains,Male,80-84,242,104.28,25.235760000000003
+2,Victoria,22620,Greater Bendigo,Male,80-84,1661,104.28,173.20908000000003
+2,Victoria,22670,Greater Dandenong,Male,80-84,1581,104.28,164.86668
+2,Victoria,22750,Greater Geelong,Male,80-84,3531,104.28,368.21268
+2,Victoria,22830,Greater Shepparton,Male,80-84,925,104.28,96.459
+2,Victoria,22910,Hepburn,Male,80-84,268,104.28,27.94704
+2,Victoria,22980,Hindmarsh,Male,80-84,110,104.28,11.470799999999999
+2,Victoria,23110,Hobsons Bay,Male,80-84,883,104.28,92.07924
+2,Victoria,23190,Horsham,Male,80-84,288,104.28,30.03264
+2,Victoria,23270,Hume,Male,80-84,1696,104.28,176.85888
+2,Victoria,23350,Indigo,Male,80-84,285,104.28,29.7198
+2,Victoria,23430,Kingston (Vic.),Male,80-84,1946,104.28,202.92888
+2,Victoria,23670,Knox,Male,80-84,1848,104.28,192.70944
+2,Victoria,23810,Latrobe (Vic.),Male,80-84,1047,104.28,109.18116
+2,Victoria,23940,Loddon,Male,80-84,153,104.28,15.95484
+2,Victoria,24130,Macedon Ranges,Male,80-84,724,104.28,75.49872
+2,Victoria,24210,Manningham,Male,80-84,2118,104.28,220.86504000000002
+2,Victoria,24250,Mansfield,Male,80-84,185,104.28,19.2918
+2,Victoria,24330,Maribyrnong,Male,80-84,516,104.28,53.80848
+2,Victoria,24410,Maroondah,Male,80-84,1318,104.28,137.44104000000002
+2,Victoria,24600,Melbourne,Male,80-84,746,104.28,77.79288000000001
+2,Victoria,24650,Melton,Male,80-84,1069,104.28,111.47532000000001
+2,Victoria,24700,Merri-bek,Male,80-84,1224,104.28,127.63872
+2,Victoria,24780,Mildura,Male,80-84,767,104.28,79.98276
+2,Victoria,24850,Mitchell,Male,80-84,512,104.28,53.39136
+2,Victoria,24900,Moira,Male,80-84,609,104.28,63.50652
+2,Victoria,24970,Monash,Male,80-84,2489,104.28,259.55292000000003
+2,Victoria,25060,Moonee Valley,Male,80-84,1304,104.28,135.98112
+2,Victoria,25150,Moorabool,Male,80-84,419,104.28,43.69332
+2,Victoria,25340,Mornington Peninsula,Male,80-84,3554,104.28,370.61111999999997
+2,Victoria,25430,Mount Alexander,Male,80-84,393,104.28,40.98204
+2,Victoria,25490,Moyne,Male,80-84,221,104.28,23.04588
+2,Victoria,25620,Murrindindi,Male,80-84,333,104.28,34.72524
+2,Victoria,25710,Nillumbik,Male,80-84,699,104.28,72.89172
+2,Victoria,25810,Northern Grampians,Male,80-84,278,104.28,28.98984
+2,Victoria,25900,Port Phillip,Male,80-84,975,104.28,101.673
+2,Victoria,25990,Pyrenees,Male,80-84,152,104.28,15.85056
+2,Victoria,26080,Queenscliffe,Male,80-84,130,104.28,13.5564
+2,Victoria,26170,South Gippsland,Male,80-84,578,104.28,60.27384000000001
+2,Victoria,26260,Southern Grampians,Male,80-84,298,104.28,31.07544
+2,Victoria,26350,Stonnington,Male,80-84,1268,104.28,132.22704000000002
+2,Victoria,26430,Strathbogie,Male,80-84,239,104.28,24.92292
+2,Victoria,26490,Surf Coast,Male,80-84,491,104.28,51.201480000000004
+2,Victoria,26610,Swan Hill,Male,80-84,242,104.28,25.235760000000003
+2,Victoria,26670,Towong,Male,80-84,125,104.28,13.035
+2,Victoria,26700,Wangaratta,Male,80-84,488,104.28,50.88864
+2,Victoria,26730,Warrnambool,Male,80-84,527,104.28,54.95556
+2,Victoria,26810,Wellington,Male,80-84,675,104.28,70.389
+2,Victoria,26890,West Wimmera,Male,80-84,61,104.28,6.36108
+2,Victoria,26980,Whitehorse,Male,80-84,2046,104.28,213.35688000000002
+2,Victoria,27070,Whittlesea,Male,80-84,1930,104.28,201.2604
+2,Victoria,27170,Wodonga,Male,80-84,469,104.28,48.90732
+2,Victoria,27260,Wyndham,Male,80-84,1284,104.28,133.89551999999998
+2,Victoria,27350,Yarra,Male,80-84,663,104.28,69.13764
+2,Victoria,27450,Yarra Ranges,Male,80-84,1949,104.28,203.24172000000002
+2,Victoria,27630,Yarriambiack,Male,80-84,127,104.28,13.243559999999999
+2,Victoria,20110,Alpine,Female,80-84,266,139.43,37.08838000000001
+2,Victoria,20260,Ararat,Female,80-84,217,139.43,30.256310000000003
+2,Victoria,20570,Ballarat,Female,80-84,1769,139.43,246.65167000000002
+2,Victoria,20660,Banyule,Female,80-84,1964,139.43,273.84052
+2,Victoria,20740,Bass Coast,Female,80-84,856,139.43,119.35208
+2,Victoria,20830,Baw Baw,Female,80-84,957,139.43,133.43451000000002
+2,Victoria,20910,Bayside (Vic.),Female,80-84,1908,139.43,266.03244
+2,Victoria,21010,Benalla,Female,80-84,317,139.43,44.199310000000004
+2,Victoria,21110,Boroondara,Female,80-84,2626,139.43,366.14318
+2,Victoria,21180,Brimbank,Female,80-84,2376,139.43,331.28568
+2,Victoria,21270,Buloke,Female,80-84,133,139.43,18.544190000000004
+2,Victoria,21370,Campaspe,Female,80-84,733,139.43,102.20219
+2,Victoria,21450,Cardinia,Female,80-84,1210,139.43,168.71030000000002
+2,Victoria,21610,Casey,Female,80-84,2969,139.43,413.96767000000006
+2,Victoria,21670,Central Goldfields,Female,80-84,324,139.43,45.17532
+2,Victoria,21750,Colac Otway,Female,80-84,415,139.43,57.86345000000001
+2,Victoria,21830,Corangamite,Female,80-84,310,139.43,43.2233
+2,Victoria,21890,Darebin,Female,80-84,1788,139.43,249.30084000000002
+2,Victoria,22110,East Gippsland,Female,80-84,1129,139.43,157.41647
+2,Victoria,22170,Frankston,Female,80-84,1852,139.43,258.22436
+2,Victoria,22250,Gannawarra,Female,80-84,256,139.43,35.69408
+2,Victoria,22310,Glen Eira,Female,80-84,1883,139.43,262.54669
+2,Victoria,22410,Glenelg,Female,80-84,370,139.43,51.58910000000001
+2,Victoria,22490,Golden Plains,Female,80-84,223,139.43,31.092890000000004
+2,Victoria,22620,Greater Bendigo,Female,80-84,1868,139.43,260.45524
+2,Victoria,22670,Greater Dandenong,Female,80-84,1924,139.43,268.26332
+2,Victoria,22750,Greater Geelong,Female,80-84,4287,139.43,597.73641
+2,Victoria,22830,Greater Shepparton,Female,80-84,994,139.43,138.59342
+2,Victoria,22910,Hepburn,Female,80-84,299,139.43,41.689569999999996
+2,Victoria,22980,Hindmarsh,Female,80-84,120,139.43,16.731600000000004
+2,Victoria,23110,Hobsons Bay,Female,80-84,1199,139.43,167.17657
+2,Victoria,23190,Horsham,Female,80-84,356,139.43,49.637080000000005
+2,Victoria,23270,Hume,Female,80-84,1953,139.43,272.30679000000003
+2,Victoria,23350,Indigo,Female,80-84,250,139.43,34.8575
+2,Victoria,23430,Kingston (Vic.),Female,80-84,2511,139.43,350.10873000000004
+2,Victoria,23670,Knox,Female,80-84,2336,139.43,325.70848000000007
+2,Victoria,23810,Latrobe (Vic.),Female,80-84,1168,139.43,162.85424000000003
+2,Victoria,23940,Loddon,Female,80-84,155,139.43,21.61165
+2,Victoria,24130,Macedon Ranges,Female,80-84,751,139.43,104.71193000000001
+2,Victoria,24210,Manningham,Female,80-84,2589,139.43,360.98427000000004
+2,Victoria,24250,Mansfield,Female,80-84,200,139.43,27.886
+2,Victoria,24330,Maribyrnong,Female,80-84,638,139.43,88.95634000000001
+2,Victoria,24410,Maroondah,Female,80-84,1715,139.43,239.12245000000001
+2,Victoria,24600,Melbourne,Female,80-84,830,139.43,115.72690000000001
+2,Victoria,24650,Melton,Female,80-84,1074,139.43,149.74782000000002
+2,Victoria,24700,Merri-bek,Female,80-84,1898,139.43,264.63814
+2,Victoria,24780,Mildura,Female,80-84,794,139.43,110.70742
+2,Victoria,24850,Mitchell,Female,80-84,588,139.43,81.98484
+2,Victoria,24900,Moira,Female,80-84,621,139.43,86.58603
+2,Victoria,24970,Monash,Female,80-84,3009,139.43,419.54487
+2,Victoria,25060,Moonee Valley,Female,80-84,1800,139.43,250.974
+2,Victoria,25150,Moorabool,Female,80-84,494,139.43,68.87841999999999
+2,Victoria,25340,Mornington Peninsula,Female,80-84,4079,139.43,568.73497
+2,Victoria,25430,Mount Alexander,Female,80-84,456,139.43,63.58008
+2,Victoria,25490,Moyne,Female,80-84,260,139.43,36.2518
+2,Victoria,25620,Murrindindi,Female,80-84,233,139.43,32.487190000000005
+2,Victoria,25710,Nillumbik,Female,80-84,710,139.43,98.9953
+2,Victoria,25810,Northern Grampians,Female,80-84,230,139.43,32.0689
+2,Victoria,25900,Port Phillip,Female,80-84,1078,139.43,150.30554
+2,Victoria,25990,Pyrenees,Female,80-84,117,139.43,16.31331
+2,Victoria,26080,Queenscliffe,Female,80-84,129,139.43,17.98647
+2,Victoria,26170,South Gippsland,Female,80-84,555,139.43,77.38365
+2,Victoria,26260,Southern Grampians,Female,80-84,325,139.43,45.31475
+2,Victoria,26350,Stonnington,Female,80-84,1599,139.43,222.94857000000002
+2,Victoria,26430,Strathbogie,Female,80-84,258,139.43,35.97294
+2,Victoria,26490,Surf Coast,Female,80-84,539,139.43,75.15277
+2,Victoria,26610,Swan Hill,Female,80-84,324,139.43,45.17532
+2,Victoria,26670,Towong,Female,80-84,106,139.43,14.77958
+2,Victoria,26700,Wangaratta,Female,80-84,630,139.43,87.8409
+2,Victoria,26730,Warrnambool,Female,80-84,571,139.43,79.61453
+2,Victoria,26810,Wellington,Female,80-84,765,139.43,106.66395000000001
+2,Victoria,26890,West Wimmera,Female,80-84,81,139.43,11.29383
+2,Victoria,26980,Whitehorse,Female,80-84,2874,139.43,400.72182
+2,Victoria,27070,Whittlesea,Female,80-84,2239,139.43,312.18377000000004
+2,Victoria,27170,Wodonga,Female,80-84,625,139.43,87.14375
+2,Victoria,27260,Wyndham,Female,80-84,1575,139.43,219.60225
+2,Victoria,27350,Yarra,Female,80-84,869,139.43,121.16467000000002
+2,Victoria,27450,Yarra Ranges,Female,80-84,2119,139.43,295.45217
+2,Victoria,27630,Yarriambiack,Female,80-84,147,139.43,20.49621
+2,Victoria,20110,Alpine,Male,85+,149,227.64,33.91836
+2,Victoria,20260,Ararat,Male,85+,139,227.64,31.641959999999997
+2,Victoria,20570,Ballarat,Male,85+,1126,227.64,256.32264
+2,Victoria,20660,Banyule,Male,85+,1397,227.64,318.01307999999995
+2,Victoria,20740,Bass Coast,Male,85+,626,227.64,142.50263999999999
+2,Victoria,20830,Baw Baw,Male,85+,693,227.64,157.75451999999999
+2,Victoria,20910,Bayside (Vic.),Male,85+,1330,227.64,302.7612
+2,Victoria,21010,Benalla,Male,85+,248,227.64,56.454719999999995
+2,Victoria,21110,Boroondara,Male,85+,1930,227.64,439.3452
+2,Victoria,21180,Brimbank,Male,85+,1697,227.64,386.30508
+2,Victoria,21270,Buloke,Male,85+,115,227.64,26.1786
+2,Victoria,21370,Campaspe,Male,85+,547,227.64,124.51907999999999
+2,Victoria,21450,Cardinia,Male,85+,827,227.64,188.25827999999998
+2,Victoria,21610,Casey,Male,85+,2005,227.64,456.41819999999996
+2,Victoria,21670,Central Goldfields,Male,85+,285,227.64,64.8774
+2,Victoria,21750,Colac Otway,Male,85+,275,227.64,62.60099999999999
+2,Victoria,21830,Corangamite,Male,85+,215,227.64,48.9426
+2,Victoria,21890,Darebin,Male,85+,1607,227.64,365.81748
+2,Victoria,22110,East Gippsland,Male,85+,751,227.64,170.95764
+2,Victoria,22170,Frankston,Male,85+,1273,227.64,289.78571999999997
+2,Victoria,22250,Gannawarra,Male,85+,191,227.64,43.47924
+2,Victoria,22310,Glen Eira,Male,85+,1494,227.64,340.09416
+2,Victoria,22410,Glenelg,Male,85+,269,227.64,61.23515999999999
+2,Victoria,22490,Golden Plains,Male,85+,149,227.64,33.91836
+2,Victoria,22620,Greater Bendigo,Male,85+,1300,227.64,295.932
+2,Victoria,22670,Greater Dandenong,Male,85+,1534,227.64,349.19975999999997
+2,Victoria,22750,Greater Geelong,Male,85+,2810,227.64,639.6683999999999
+2,Victoria,22830,Greater Shepparton,Male,85+,767,227.64,174.59987999999998
+2,Victoria,22910,Hepburn,Male,85+,214,227.64,48.71496
+2,Victoria,22980,Hindmarsh,Male,85+,117,227.64,26.633879999999998
+2,Victoria,23110,Hobsons Bay,Male,85+,928,227.64,211.24991999999997
+2,Victoria,23190,Horsham,Male,85+,274,227.64,62.37335999999999
+2,Victoria,23270,Hume,Male,85+,1223,227.64,278.40371999999996
+2,Victoria,23350,Indigo,Male,85+,207,227.64,47.12148
+2,Victoria,23430,Kingston (Vic.),Male,85+,1843,227.64,419.54051999999996
+2,Victoria,23670,Knox,Male,85+,1642,227.64,373.78488
+2,Victoria,23810,Latrobe (Vic.),Male,85+,820,227.64,186.66479999999999
+2,Victoria,23940,Loddon,Male,85+,139,227.64,31.641959999999997
+2,Victoria,24130,Macedon Ranges,Male,85+,466,227.64,106.08023999999999
+2,Victoria,24210,Manningham,Male,85+,2270,227.64,516.7428
+2,Victoria,24250,Mansfield,Male,85+,115,227.64,26.1786
+2,Victoria,24330,Maribyrnong,Male,85+,511,227.64,116.32404
+2,Victoria,24410,Maroondah,Male,85+,1219,227.64,277.49316
+2,Victoria,24600,Melbourne,Male,85+,583,227.64,132.71412
+2,Victoria,24650,Melton,Male,85+,682,227.64,155.25047999999998
+2,Victoria,24700,Merri-bek,Male,85+,1713,227.64,389.94731999999993
+2,Victoria,24780,Mildura,Male,85+,605,227.64,137.7222
+2,Victoria,24850,Mitchell,Male,85+,316,227.64,71.93423999999999
+2,Victoria,24900,Moira,Male,85+,521,227.64,118.60043999999999
+2,Victoria,24970,Monash,Male,85+,2727,227.64,620.7742799999999
+2,Victoria,25060,Moonee Valley,Male,85+,1435,227.64,326.66339999999997
+2,Victoria,25150,Moorabool,Male,85+,270,227.64,61.462799999999994
+2,Victoria,25340,Mornington Peninsula,Male,85+,2896,227.64,659.2454399999999
+2,Victoria,25430,Mount Alexander,Male,85+,294,227.64,66.92616
+2,Victoria,25490,Moyne,Male,85+,184,227.64,41.88576
+2,Victoria,25620,Murrindindi,Male,85+,173,227.64,39.38172
+2,Victoria,25710,Nillumbik,Male,85+,446,227.64,101.52743999999998
+2,Victoria,25810,Northern Grampians,Male,85+,175,227.64,39.837
+2,Victoria,25900,Port Phillip,Male,85+,813,227.64,185.07132
+2,Victoria,25990,Pyrenees,Male,85+,94,227.64,21.39816
+2,Victoria,26080,Queenscliffe,Male,85+,108,227.64,24.58512
+2,Victoria,26170,South Gippsland,Male,85+,452,227.64,102.89328
+2,Victoria,26260,Southern Grampians,Male,85+,212,227.64,48.25968
+2,Victoria,26350,Stonnington,Male,85+,1217,227.64,277.03788000000003
+2,Victoria,26430,Strathbogie,Male,85+,205,227.64,46.666199999999996
+2,Victoria,26490,Surf Coast,Male,85+,356,227.64,81.03984
+2,Victoria,26610,Swan Hill,Male,85+,233,227.64,53.040119999999995
+2,Victoria,26670,Towong,Male,85+,120,227.64,27.3168
+2,Victoria,26700,Wangaratta,Male,85+,424,227.64,96.51936
+2,Victoria,26730,Warrnambool,Male,85+,383,227.64,87.18611999999999
+2,Victoria,26810,Wellington,Male,85+,472,227.64,107.44607999999998
+2,Victoria,26890,West Wimmera,Male,85+,63,227.64,14.34132
+2,Victoria,26980,Whitehorse,Male,85+,2177,227.64,495.57228
+2,Victoria,27070,Whittlesea,Male,85+,1576,227.64,358.76063999999997
+2,Victoria,27170,Wodonga,Male,85+,381,227.64,86.73084
+2,Victoria,27260,Wyndham,Male,85+,916,227.64,208.51824
+2,Victoria,27350,Yarra,Male,85+,573,227.64,130.43771999999998
+2,Victoria,27450,Yarra Ranges,Male,85+,1282,227.64,291.83448
+2,Victoria,27630,Yarriambiack,Male,85+,115,227.64,26.1786
+2,Victoria,20110,Alpine,Female,85+,284,332.98,94.56632
+2,Victoria,20260,Ararat,Female,85+,212,332.98,70.59176000000001
+2,Victoria,20570,Ballarat,Female,85+,1850,332.98,616.013
+2,Victoria,20660,Banyule,Female,85+,2128,332.98,708.58144
+2,Victoria,20740,Bass Coast,Female,85+,746,332.98,248.40308000000002
+2,Victoria,20830,Baw Baw,Female,85+,903,332.98,300.68094
+2,Victoria,20910,Bayside (Vic.),Female,85+,2169,332.98,722.23362
+2,Victoria,21010,Benalla,Female,85+,368,332.98,122.53664000000002
+2,Victoria,21110,Boroondara,Female,85+,3153,332.98,1049.88594
+2,Victoria,21180,Brimbank,Female,85+,2459,332.98,818.7978200000001
+2,Victoria,21270,Buloke,Female,85+,170,332.98,56.60660000000001
+2,Victoria,21370,Campaspe,Female,85+,799,332.98,266.05102
+2,Victoria,21450,Cardinia,Female,85+,1084,332.98,360.95032000000003
+2,Victoria,21610,Casey,Female,85+,2916,332.98,970.96968
+2,Victoria,21670,Central Goldfields,Female,85+,312,332.98,103.88976000000001
+2,Victoria,21750,Colac Otway,Female,85+,402,332.98,133.85796000000002
+2,Victoria,21830,Corangamite,Female,85+,365,332.98,121.53770000000002
+2,Victoria,21890,Darebin,Female,85+,2516,332.98,837.77768
+2,Victoria,22110,East Gippsland,Female,85+,988,332.98,328.98424
+2,Victoria,22170,Frankston,Female,85+,1888,332.98,628.66624
+2,Victoria,22250,Gannawarra,Female,85+,231,332.98,76.91838
+2,Victoria,22310,Glen Eira,Female,85+,2574,332.98,857.09052
+2,Victoria,22410,Glenelg,Female,85+,392,332.98,130.52816
+2,Victoria,22490,Golden Plains,Female,85+,173,332.98,57.60554
+2,Victoria,22620,Greater Bendigo,Female,85+,1914,332.98,637.3237200000001
+2,Victoria,22670,Greater Dandenong,Female,85+,2112,332.98,703.25376
+2,Victoria,22750,Greater Geelong,Female,85+,4373,332.98,1456.12154
+2,Victoria,22830,Greater Shepparton,Female,85+,1111,332.98,369.94078
+2,Victoria,22910,Hepburn,Female,85+,271,332.98,90.23758000000001
+2,Victoria,22980,Hindmarsh,Female,85+,129,332.98,42.954420000000006
+2,Victoria,23110,Hobsons Bay,Female,85+,1451,332.98,483.15398000000005
+2,Victoria,23190,Horsham,Female,85+,423,332.98,140.85054
+2,Victoria,23270,Hume,Female,85+,1767,332.98,588.37566
+2,Victoria,23350,Indigo,Female,85+,249,332.98,82.91202
+2,Victoria,23430,Kingston (Vic.),Female,85+,2945,332.98,980.6261000000001
+2,Victoria,23670,Knox,Female,85+,2376,332.98,791.1604800000001
+2,Victoria,23810,Latrobe (Vic.),Female,85+,1207,332.98,401.90686000000005
+2,Victoria,23940,Loddon,Female,85+,178,332.98,59.27044
+2,Victoria,24130,Macedon Ranges,Female,85+,599,332.98,199.45502000000002
+2,Victoria,24210,Manningham,Female,85+,3038,332.98,1011.5932400000002
+2,Victoria,24250,Mansfield,Female,85+,177,332.98,58.93746000000001
+2,Victoria,24330,Maribyrnong,Female,85+,872,332.98,290.35856
+2,Victoria,24410,Maroondah,Female,85+,1860,332.98,619.3428
+2,Victoria,24600,Melbourne,Female,85+,847,332.98,282.03406
+2,Victoria,24650,Melton,Female,85+,959,332.98,319.32782000000003
+2,Victoria,24700,Merri-bek,Female,85+,3011,332.98,1002.60278
+2,Victoria,24780,Mildura,Female,85+,1005,332.98,334.6449
+2,Victoria,24850,Mitchell,Female,85+,507,332.98,168.82086
+2,Victoria,24900,Moira,Female,85+,663,332.98,220.76574000000002
+2,Victoria,24970,Monash,Female,85+,3926,332.98,1307.27948
+2,Victoria,25060,Moonee Valley,Female,85+,2258,332.98,751.8688400000001
+2,Victoria,25150,Moorabool,Female,85+,372,332.98,123.86856000000002
+2,Victoria,25340,Mornington Peninsula,Female,85+,3946,332.98,1313.93908
+2,Victoria,25430,Mount Alexander,Female,85+,432,332.98,143.84736
+2,Victoria,25490,Moyne,Female,85+,210,332.98,69.92580000000001
+2,Victoria,25620,Murrindindi,Female,85+,226,332.98,75.25348000000001
+2,Victoria,25710,Nillumbik,Female,85+,536,332.98,178.47728
+2,Victoria,25810,Northern Grampians,Female,85+,219,332.98,72.92262000000001
+2,Victoria,25900,Port Phillip,Female,85+,1197,332.98,398.57706
+2,Victoria,25990,Pyrenees,Female,85+,117,332.98,38.95866
+2,Victoria,26080,Queenscliffe,Female,85+,149,332.98,49.614020000000004
+2,Victoria,26170,South Gippsland,Female,85+,553,332.98,184.13794000000001
+2,Victoria,26260,Southern Grampians,Female,85+,355,332.98,118.20790000000001
+2,Victoria,26350,Stonnington,Female,85+,1928,332.98,641.98544
+2,Victoria,26430,Strathbogie,Female,85+,204,332.98,67.92792
+2,Victoria,26490,Surf Coast,Female,85+,497,332.98,165.49106
+2,Victoria,26610,Swan Hill,Female,85+,363,332.98,120.87174
+2,Victoria,26670,Towong,Female,85+,115,332.98,38.2927
+2,Victoria,26700,Wangaratta,Female,85+,612,332.98,203.78376
+2,Victoria,26730,Warrnambool,Female,85+,672,332.98,223.76256
+2,Victoria,26810,Wellington,Female,85+,676,332.98,225.09448
+2,Victoria,26890,West Wimmera,Female,85+,115,332.98,38.2927
+2,Victoria,26980,Whitehorse,Female,85+,3593,332.98,1196.39714
+2,Victoria,27070,Whittlesea,Female,85+,2319,332.98,772.18062
+2,Victoria,27170,Wodonga,Female,85+,608,332.98,202.45184000000003
+2,Victoria,27260,Wyndham,Female,85+,1372,332.98,456.84856
+2,Victoria,27350,Yarra,Female,85+,942,332.98,313.66716
+2,Victoria,27450,Yarra Ranges,Female,85+,1911,332.98,636.32478
+2,Victoria,27630,Yarriambiack,Female,85+,154,332.98,51.27892000000001
